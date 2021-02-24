@@ -17,66 +17,12 @@ Continue the conversation in <a href="http://adobe.ly/36Yd3v6">Experience League
 
 ## Highlights
 
-* **[Using Launches with AEM Sites (Video)](./page-authoring/launches.md)**
+* **[Developer Experience](developer-experience.md)**
     *Learn about AEM Sites' Launches and how they can be used to prepare web site content for future release.*
 
-* **[Customize the Adobe Client Data Layer with AEM Components (Tutorial)](./integrations/adobe-client-data-layer/data-layer-customize.md)**
+* **[CAdobe Client Data Layer: Track Your Visitor Data](adobe-client-data-layer.md)**
   *Learn how to update the Adobe Client Data Layer with content from custom AEM Components.*
 
-* **[Getting Started with AEM Headless GraphQL (Tutorial)](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/overview.html)**
-    *How to expose content from AEM to be consumed by a native mobile app using AEM's GraphQL APIs.*
-
-* **[Using Content Fragments (Video Series)](./content-fragments/content-fragments-feature-video-use.md)**
-    *Content Fragments are channel agnostic pieces of content able to be re-used.*
-
-* **[Using the SPA Editor (Video)](./spa-editor/spa-editor-framework-feature-video-use.md)**
-    *Learn about AEM's editing capabilities for single page applications (SPA).*
-
-## Staff Picks
-
-<table>
-<tr>
-  <td>
-    <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html">
-      <img alt="Getting Started with AEM Sites - WKND Tutorial" src="./assets/aem-wknd-tutorial.png" />
-    </a>
-    <div>
-      <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html">
-    <strong>Getting Started with AEM Sites</strong>
-    </a>
-    </div>
-    <p>
-    <em>A getting started guide for developers looking to implement AEM Sites.</em>
-    <p>
-  </td>
-  <td>
-    <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html">
-    <img alt="Getting Started with AEM Headless" src="./assets/aem-headless-tutorial.png" />
-    </a>
-    <div>
-    <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html">
-    <strong>Getting Started with AEM Headless</strong>
-    </a>
-    </div>
-    <p>
-    <em>A getting started guide for developers looking to use AEM as headless CMS.</em>
-    </p>
-  </td>
-  <td>
-    <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/spa-react-tutorial/overview.html">
-      <img alt="Getting Started with AEM's SPA Editor" src="./assets/aem-wknd-spa-editor-tutorial.png" />
-    </a>
-     <div>
-      <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/spa-react-tutorial/overview.html">
-        <strong>Getting Started with AEM's SPA Editor</strong>
-      </a>
-    </div>
-    <p>
-    <em>A getting started guide for developers to integrate a single page applications (SPA) with AEM.</em>
-    <p>
-  </td>
-</tr>
-</table>
 
 ## Additional Resources
 
