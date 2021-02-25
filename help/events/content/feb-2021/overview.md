@@ -12,18 +12,18 @@ On February 8-9, 2021, Adobe Developers Live: Content brought together developer
 
 This two-day conference featured important Adobe Experience Manager developer updates, such as Headless and GraphQL, Adobe Experience Manager as a Cloud Service, technical sessions and community networking opportunities.
 
-Continue the conversation in <a href="http://adobe.ly/36Yd3v6">Experience League Communities</a>.
+Continue the conversation in [Experience League Communities] (http://adobe.ly/36Yd3v6).
  
 
 ## Highlights
 
-* **[Headless - GraphQL with Content Fragments](headless-graphql-content-fragments.md)**
+* **[Headless - GraphQL with Content Fragments][![image](/help/events/assets/331280.jpg)](headless-graphql-content-fragments.md)**
     *Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for Adobe Experience Manager Cloud Service.*
 
-* **[SPA Editor 2.0 - add in-context editable content spots to any app](spa-editor-2-0.md)**
+* **[SPA Editor 2.0 - add in-context editable content spots to any app][![image](/help/events/assets/331743.jpg)](spa-editor-2-0.md)**
   *Load your existing React or Angular SPA in the Page Editor and, with minimal intervention, enable authors to insert content that they edit in-context.*
 
-* **[Rapid Frontend Development: Your Future Workflow](rapid-frontend-devlopment.md)**
+* **[Rapid Frontend Development: Your Future Workflow][![image](/help/events/assets/331737.jpg)](rapid-frontend-devlopment.md)**
   *Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS & JS.*
 
 ## Additional Resources
@@ -37,3 +37,6 @@ Continue the conversation in <a href="http://adobe.ly/36Yd3v6">Experience League
 * [AEM Assets Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.md)
 * [AEM Forms Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.md)
 * [AEM Foundation Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.md)
+
+
+[![image](/docs/authoring-guide-exl/assets/core-services_96.png?lang=en)](/help/content/overview.md)
