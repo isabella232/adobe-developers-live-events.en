@@ -37,6 +37,3 @@ Continue the conversation in [Experience League Communities] (http://adobe.ly/36
 * [AEM Assets Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.md)
 * [AEM Forms Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.md)
 * [AEM Foundation Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.md)
-
-
-[![image](/docs/authoring-guide-exl/assets/core-services_96.png?lang=en)](/help/content/overview.md)
