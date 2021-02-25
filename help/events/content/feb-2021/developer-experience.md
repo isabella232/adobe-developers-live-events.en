@@ -2,7 +2,7 @@
 title: Developer Experience at Experience Cloud
 description: Join Jonathan Roeder, Director of Developer Experience for Experience Cloud, to hear about the latest developer updates across Adobe Experience Cloud.
 feature: Developer Tools
-topics: Development
+topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Advanced
 version: cloud-service

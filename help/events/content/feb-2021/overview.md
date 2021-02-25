@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live
-seo-title: AEM Sites Tutorials
+title: Adobe Developers Live | Content
+seo-title: Adobe Developers Live | Content
 description: A collection of videos and tutorials for Adobe Experience Manager Sites. 
 seo-description: A collection of videos and tutorials for Adobe Experience Manager Sites
 sub-product: sites, content-services
@@ -8,7 +8,7 @@ sub-product: sites, content-services
 
 # Overview {#overview}
 
-On February 8-9, 2021, Adobe Developers Live: Content brought together developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences. 
+On February 8-9, 2021, Adobe Developers Live: Content brought together developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences.
 
 This two-day conference featured important Adobe Experience Manager developer updates, such as Headless and GraphQL, Adobe Experience Manager as a Cloud Service, technical sessions and community networking opportunities.
 
@@ -17,12 +17,14 @@ Continue the conversation in <a href="http://adobe.ly/36Yd3v6">Experience League
 
 ## Highlights
 
-* **[Developer Experience](developer-experience.md)**
-    *Learn about AEM Sites' Launches and how they can be used to prepare web site content for future release.*
+* **[Headless - GraphQL with Content Fragments](headless-graphql-content-fragments.md)**
+    *Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for Adobe Experience Manager Cloud Service.*
 
-* **[CAdobe Client Data Layer: Track Your Visitor Data](adobe-client-data-layer.md)**
-  *Learn how to update the Adobe Client Data Layer with content from custom AEM Components.*
+* **[SPA Editor 2.0 - add in-context editable content spots to any app](spa-editor-2-0.md)**
+  *Load your existing React or Angular SPA in the Page Editor and, with minimal intervention, enable authors to insert content that they edit in-context.*
 
+* **[Rapid Frontend Development: Your Future Workflow](rapid-frontend-devlopment.md)**
+  *Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS & JS.*
 
 ## Additional Resources
 

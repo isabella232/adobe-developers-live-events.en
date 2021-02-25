@@ -1,0 +1,20 @@
+---
+title: Adobe Experience Platform Launch Demo
+description: Quickly and easily deploy and manage your client-side marketing & advertising tags with AEP Launch, learn how to customize, and write your own extensions.
+solution: Launch
+feature: Extensions
+topic: Development
+role: Developer
+level: Advanced
+version: cloud-service
+kt: 7166
+thumbnail: 331734.jpg
+---
+
+# Adobe Experience Platform Launch Demo
+
+Quickly and easily deploy and manage your client-side marketing & advertising tags with AEP Launch, learn how to customize, and write your own extensions.
+
+Continue the conversation in <a href="http://adobe.ly/36Yd3v6">Experience League Communities</a>.
+
+>[!VIDEO](https://video.tv.adobe.com/v/331734/?quality=12&learn=on&hidetitle=true)
