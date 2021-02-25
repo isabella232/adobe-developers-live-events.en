@@ -2,6 +2,7 @@
 cloud: experience-cloud
 solution: Experience Cloud
 product: experience cloud
+description: Collection of recordings from the Adobe Developer Live-streamed events.
 type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/adobe-developers-live-events.en
