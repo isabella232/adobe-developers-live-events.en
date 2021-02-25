@@ -4,7 +4,7 @@ description: A panel with Carsten Ziegeler, Karl Pauls, & David Bosschaert on wh
 feature: Developer Tools
 topic: Development
 role: Developer
-level: Advanced
+level: Experienced
 version: cloud-service
 kt: 7174
 thumbnail: 331740.jpg

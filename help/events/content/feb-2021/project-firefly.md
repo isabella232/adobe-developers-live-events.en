@@ -4,7 +4,7 @@ description: OK, so want to hear more Project Firefly developer stuff? Join us a
 feature: Developer Tools
 topic: Development
 role: Developer
-level: Intermediate, Advanced
+level: Intermediate, Experienced
 version: cloud-service
 kt: 7175
 thumbnail: 331741.jpg

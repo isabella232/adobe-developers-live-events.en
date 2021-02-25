@@ -4,7 +4,7 @@ description: Make your site installable on mobile devices and available offline 
 feature: Migration
 topic: Development, Mobile
 role: Developer
-level: Intermediate, Advanced
+level: Intermediate, Experienced
 version: cloud-service
 kt: 7176
 thumbnail: 331742.jpg

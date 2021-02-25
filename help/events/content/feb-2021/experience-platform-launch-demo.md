@@ -5,7 +5,7 @@ solution: Experience Platform Launch
 feature: Extensions
 topic: Development
 role: Developer
-level: Advanced
+level: Experienced
 version: cloud-service
 kt: 7166
 thumbnail: 331734.jpg

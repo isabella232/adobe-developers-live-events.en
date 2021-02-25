@@ -3,7 +3,7 @@ title: Asset Bulk Ingestion
 description: This session will introduce the new feature of assets bulk ingestion in cloud service and its scalability & performance.
 feature: Asset Management
 role: Developer
-level: Advanced
+level: Experienced
 version: cloud-service
 kt: 7168
 thumbnail: 331769.jpg

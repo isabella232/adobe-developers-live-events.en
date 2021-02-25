@@ -5,7 +5,7 @@ solution: Analytics, Target
 feature: Core Components, Adobe Client Data Layer
 topic: Development
 role: Developer
-level: Advanced
+level: Experienced
 version: cloud-service
 kt: 7162
 thumbnail: 331733.jpg

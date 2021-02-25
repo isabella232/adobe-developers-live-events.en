@@ -4,7 +4,7 @@ description: Join Gabriel Walt, Product Manager for Experience Manager, to get a
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
-level: Beginner, Intermediate, Advanced
+level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 7165
 thumbnail: 331279.jpg

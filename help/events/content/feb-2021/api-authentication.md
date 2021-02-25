@@ -4,7 +4,7 @@ description: How new mechanisms in the Adobe Experience Manager Dev Console allo
 feature: APIs
 topic: Development
 role: Developer
-level: Advanced
+level: Experienced
 version: cloud-service
 kt: 7167
 thumbnail: 331768.jpg

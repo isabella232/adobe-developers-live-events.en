@@ -4,7 +4,7 @@ description: Learn about the new headless capabilities with the most recent Cont
 feature: Content Fragments, APIs, GraphQL API
 topic: Development, Headless
 role: Developer
-level: Advanced
+level: Experienced
 version: cloud-service
 kt: 7171
 thumbnail: 331280.jpg

@@ -4,7 +4,7 @@ description: A panel with Ian Boston, Tomek Rekawek, and Carlos Sanchez, on how 
 feature: Migration
 topic: Development
 role: Developer
-level: Intermediate, Advanced
+level: Intermediate, Experienced
 version: cloud-service
 kt: 7173
 thumbnail: 331739.jpg
