@@ -1,5 +1,5 @@
 ---
-title: SPA Editor 2.0: add in-context editable content spots to any app
+title: SPA Editor 2.0 - add in-context editable content spots to any app
 description: Load your existing React or Angular SPA in the Page Editor and, with minimal intervention, enable authors to insert content that they edit in-context.
 feature: SPA Editor
 topic: Development, SPA
@@ -10,7 +10,7 @@ kt: 7178
 thumbnail: 331743.jpg
 ---
 
-# SPA Editor 2.0: add in-context editable content spots to any app 
+# SPA Editor 2.0 - add in-context editable content spots to any app 
 
 Load your existing React or Angular SPA in the Page Editor and, with minimal intervention, enable authors to insert content that they edit in-context.
 

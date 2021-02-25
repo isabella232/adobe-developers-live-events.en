@@ -1,5 +1,5 @@
 ---
-title: Rapid Frontend Development: Your Future Workflow
+title: Rapid Frontend Development - Your Future Workflow
 description: Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS & JS.
 feature: Editable Templates
 topic: Development
@@ -10,7 +10,7 @@ kt: 7177
 thumbnail: 331737.jpg
 ---
 
-# Rapid Frontend Development: Your Future Workflow 
+# Rapid Frontend Development - Your Future Workflow 
 
 Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS & JS.
 

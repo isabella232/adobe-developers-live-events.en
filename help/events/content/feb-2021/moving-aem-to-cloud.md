@@ -1,5 +1,5 @@
 ---
-title: Moving Adobe Experience Manager to the Cloud: Challenges, Stories, Solutions
+title: Moving Adobe Experience Manager to the Cloud - Challenges, Stories, Solutions
 description: A panel with Ian Boston, Tomek Rekawek, and Carlos Sanchez, on how we successfully moved Adobe Experience Manager to the Cloud.
 feature: Migration
 topic: Development
@@ -10,7 +10,7 @@ kt: 7173
 thumbnail: 331739.jpg
 ---
 
-# Moving Adobe Experience Manager to the Cloud: Challenges, Stories, Solutions 
+# Moving Adobe Experience Manager to the Cloud - Challenges, Stories, Solutions 
 
 A panel with Ian Boston, Tomek Rekawek, and Carlos Sanchez, on how we successfully moved Adobe Experience Manager to the Cloud.
 

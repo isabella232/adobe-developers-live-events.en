@@ -1,5 +1,5 @@
 ---
-title: PWA: Turn any Site into a Progressive Web App
+title: PWA - Turn any Site into a Progressive Web App
 description: Make your site installable on mobile devices and available offline with just a click, no matter whether it is a web app or a traditional site.
 feature: Migration
 topic: Development, Mobile
@@ -10,7 +10,7 @@ kt: 7176
 thumbnail: 331742.jpg
 ---
 
-# PWA: Turn any Site into a Progressive Web App 
+# PWA - Turn any Site into a Progressive Web App 
 
 Make your site installable on mobile devices and available offline with just a click, no matter whether it is a web app or a traditional site.
 
