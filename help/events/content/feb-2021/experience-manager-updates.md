@@ -14,6 +14,6 @@ thumbnail: 331279.jpg
 
 Join Gabriel Walt, Product Manager for Experience Manager, to get an overview of the big themes that drive Adobe Experience Manager’s roadmap and how the sessions relate.
 
-Continue the conversation in <a href="http://adobe.ly/36Yd3v6">Experience League Communities</a>.
+Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331279/?quality=12&learn=on&hidetitle=true)

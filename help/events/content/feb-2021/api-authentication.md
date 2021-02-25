@@ -14,6 +14,6 @@ thumbnail: 331768.jpg
 
 How new mechanisms in the Adobe Experience Manager Dev Console allow authentication to instances of Adobe Experience Manager in the Cloud, both as a developer and from 3rd party applications.
 
-Continue the conversation in <a href="http://adobe.ly/36Yd3v6">Experience League Communities</a>.
+Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331768/?quality=12&learn=on&hidetitle=true)

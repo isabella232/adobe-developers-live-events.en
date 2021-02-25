@@ -14,6 +14,6 @@ thumbnail: 331743.jpg
 
 Load your existing React or Angular SPA in the Page Editor and, with minimal intervention, enable authors to insert content that they edit in-context.
 
-Continue the conversation in <a href="http://adobe.ly/36Yd3v6">Experience League Communities</a>.
+Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)

@@ -14,6 +14,6 @@ thumbnail: 331735.jpg
 
 Learn how the Digital Foundation Blueprint framework allows you to quickly implement a design with OOTB functionality and minimal customization.
 
-Continue the conversation in <a href="http://adobe.ly/36Yd3v6">Experience League Communities</a>.
+Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331735/?quality=12&learn=on&hidetitle=true)

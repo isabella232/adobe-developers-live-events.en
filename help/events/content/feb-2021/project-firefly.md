@@ -14,6 +14,6 @@ thumbnail: 331741.jpg
 
 OK, so want to hear more Project Firefly developer stuff? Join us and see Firefly in action: code, security, headfull and headless apps, CI/CD and more.
 
-Continue the conversation in <a href="http://adobe.ly/36Yd3v6">Experience League Communities</a>.
+Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)

@@ -13,6 +13,6 @@ thumbnail: 331769.jpg
 
 This session will introduce the new feature of assets bulk ingestion in cloud service and its scalability and performance.
 
-Continue the conversation in <a href="http://adobe.ly/36Yd3v6">Experience League Communities</a>.
+Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331769/?quality=12&learn=on&hidetitle=true)
