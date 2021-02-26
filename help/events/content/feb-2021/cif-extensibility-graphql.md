@@ -1,6 +1,6 @@
 ---
 title: Commerce Integration Framework Extensibility via GraphQL
-description: Learn how to extend Commerce core components using GraphQL.
+description: Learn how to extend Commerce core components using GraphQL
 feature: Commerce Integration Framework
 topic: Development
 role: Developer
