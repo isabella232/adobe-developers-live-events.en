@@ -14,7 +14,7 @@ thumbnail: 331770.jpg
 
 Join Jonathan Roeder, Director of Developer Experience for Experience Cloud, to hear about the latest developer updates across Adobe Experience Cloud.
 
-Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
+Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 

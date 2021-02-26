@@ -14,6 +14,6 @@ thumbnail: 331739.jpg
 
 A panel with Ian Boston, Tomek Rekawek, and Carlos Sanchez, on how we successfully moved Adobe Experience Manager to the Cloud.
 
-Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
+Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331739/?quality=12&learn=on&hidetitle=true)
