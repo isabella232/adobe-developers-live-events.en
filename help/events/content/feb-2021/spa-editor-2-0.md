@@ -17,3 +17,5 @@ Load your existing React or Angular SPA in the Page Editor and, with minimal int
 Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
+
+Click **[here](/help/events/assets/spa-editor-2-0.pdf)** for the session slides.

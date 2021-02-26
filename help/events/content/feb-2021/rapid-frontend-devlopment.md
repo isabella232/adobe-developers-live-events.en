@@ -17,3 +17,5 @@ Use Site Templates to create new sites in few clicks, and bring back the fun of 
 Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
+
+Click **[here](/help/events/assets/rapid-frontend-devlopment.pdf)** for the session slides.

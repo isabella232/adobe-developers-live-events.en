@@ -17,3 +17,5 @@ Re-imagining Adobe Experience Manager Screens as a Cloud Service: a journey from
 Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331767/?quality=12&learn=on&hidetitle=true)
+
+Click **[here](/help/events/assets/screens-as-a-cloud-service.pdf)** for the session slides.

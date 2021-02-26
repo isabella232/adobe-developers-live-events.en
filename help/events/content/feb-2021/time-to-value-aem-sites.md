@@ -17,3 +17,6 @@ Learn how the Digital Foundation Blueprint framework allows you to quickly imple
 Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331735/?quality=12&learn=on&hidetitle=true)
+
+Click **[here](/help/events/assets/time-to-value-aem-sites.pdf)** for the session slides.
+

@@ -17,3 +17,5 @@ How new mechanisms in the Adobe Experience Manager Dev Console allow authenticat
 Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331768/?quality=12&learn=on&hidetitle=true)
+
+Click **[here](/help/events/assets/api-authentication.pdf)** for the session slides.

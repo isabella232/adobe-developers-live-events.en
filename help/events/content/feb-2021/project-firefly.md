@@ -17,3 +17,5 @@ OK, so want to hear more Project Firefly developer stuff? Join us and see Firefl
 Continue the conversation in [Experience League Communities](http://adobe.ly/36Yd3v6).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)
+
+Click **[here](/help/events/assets/project-firefly.pdf)** for the session slides.
