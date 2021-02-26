@@ -14,7 +14,7 @@ This two-day conference featured important Adobe Experience Manager developer up
 
 A few highlighted sessions are below, see all the sessions in the navigation to the left.
 
-Connect with fellow devs and join the session conversations in [Experience League Communities](http://adobe.ly/36Yd3v6).
+Connect with fellow devs and join the session conversations in **[Experience League Communities](http://adobe.ly/36Yd3v6).**
 
 ## Highlights
 
