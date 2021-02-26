@@ -20,16 +20,49 @@ Connect with fellow devs and join the session conversations in **[Experience Lea
 
 ## Highlights
 
-[![image](/help/events/assets/331280.jpg)](headless-graphql-content-fragments.md)**Headless - GraphQL with Content Fragments**
- *Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for Adobe Experience Manager Cloud Service.*
-
-[![image](/help/events/assets/331743.jpg)](spa-editor-2-0.md)
-**SPA Editor 2.0 - add in-context editable content spots to any app**
-*Load your existing React or Angular SPA in the Page Editor and, with minimal intervention, enable authors to insert content that they edit in-context.*
-
-[![image](/help/events/assets/331737.jpg)](rapid-frontend-devlopment.md)
-**Rapid Frontend Development: Your Future Workflow**
-*Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS & JS.*
+<table>
+<tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/headless-graphql-content-fragments.html">
+      <img alt="GraphQL with Content Fragments" src="/help/events/assets/331280.jpg" />
+    </a>
+    <div>
+      <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/headless-graphql-content-fragments.html">
+    <strong>GraphQL with Content Fragments</strong>
+    </a>
+    </div>
+    <p>
+    <em>Learn about the new headless capabilities with the most recent Content Fragment enhancements. The session focus is on the GraphQL API for AEM Cloud Service.</em>
+    <p>
+  </td>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/spa-editor-2-0.html">
+    <img alt="SPA Editor 2.0" src="/help/events/assets/331743.jpg" />
+    </a>
+    <div>
+    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/spa-editor-2-0.html">
+    <strong>SPA Editor 2.0</strong>
+    </a>
+    </div>
+    <p>
+    <em>Load your existing React or Angular SPA in the Page Editor and, with minimal intervention, enable authors to insert content that they edit in-context.</em>
+    </p>
+  </td>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/rapid-frontend-devlopment.html">
+      <img alt="Rapid Frontend Development" src="/help/events/assets/331737.jpg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/rapid-frontend-devlopment.html">
+        <strong>Rapid Frontend Development</strong>
+      </a>
+    </div>
+    <p>
+    <em>Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS & JS.</em>
+    <p>
+  </td>
+</tr>
+</table>
 
 ## Additional Resources
 
