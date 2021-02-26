@@ -10,7 +10,7 @@ sub-product: sites, content-services
 
 >[!TIP]
 >
->A few highlighted sessions are below, **see all the sessions in the navigation to the left**.
+>**Sessions listed in the navigation on the left**.
 
 On February 8-9, 2021, Adobe Developers Live: Content brought together developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences.
 
