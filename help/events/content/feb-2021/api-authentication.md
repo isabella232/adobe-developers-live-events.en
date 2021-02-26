@@ -1,8 +1,10 @@
 ---
 title: API authentication with Adobe Experience Manager as a Cloud Service
 description: How new mechanisms in the Adobe Experience Manager Dev Console allow authentication to instances of Adobe Experience Manager in the Cloud, both as a developer and from 3rd party applications.
+solution: Experience Manager
+product: experience manager
 feature: APIs
-topic: Development
+topic: Headless
 role: Developer
 level: Experienced
 version: cloud-service

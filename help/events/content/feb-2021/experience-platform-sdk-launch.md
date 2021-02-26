@@ -2,6 +2,8 @@
 title: Experience Platform SDKs and Launch Server Side
 description: Unlock the full potential of AEP Launch Server Side with the AEP Web & Mobile SDK's to optimize your enterprise data collection.
 solution: Experience Platform, Experience Platform Launch
+product: experience platform
+sub-product: launch
 feature: Developer Tools, APIs
 topic: Development, Mobile
 role: Developer

@@ -1,6 +1,9 @@
 ---
 title: SPA Editor 2.0 - add in-context editable content spots to any app
 description: Load your existing React or Angular SPA in the Page Editor and, with minimal intervention, enable authors to insert content that they edit in-context.
+solution: Experience Manager Sites
+product: experience manager
+sub-product: sites
 feature: SPA Editor
 topic: Development, SPA
 role: Developer

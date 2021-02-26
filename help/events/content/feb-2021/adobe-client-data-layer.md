@@ -1,7 +1,9 @@
 ---
 title: Adobe Client Data Layer - Track Your Visitor Data
 description: Join Jonathan Roeder, Director of Developer Experience for Experience Cloud, to hear about the latest developer updates across Adobe Experience Cloud.
-solution: Analytics, Target
+solution: Experience Manager Sites, Analytics, Target
+product: experience manager
+sub-product: sites
 feature: Core Components, Adobe Client Data Layer
 topic: Development
 role: Developer

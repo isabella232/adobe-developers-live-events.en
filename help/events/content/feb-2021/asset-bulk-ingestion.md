@@ -1,7 +1,11 @@
 ---
 title: Asset Bulk Ingestion
 description: This session will introduce the new feature of assets bulk ingestion in cloud service and its scalability & performance.
-feature: Asset Management
+solution: Experience Manager Assets
+product: experience manager
+sub-product: assets
+topic: Migration
+feature: Developer Tools
 role: Developer
 level: Experienced
 version: cloud-service
