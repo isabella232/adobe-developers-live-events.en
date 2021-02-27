@@ -1,6 +1,6 @@
 ---
 title: Adobe Client Data Layer - Track Your Visitor Data
-description: Join Jonathan Roeder, Director of Developer Experience for Experience Cloud, to hear about the latest developer updates across Adobe Experience Cloud.
+description: Understand ACDL’s event-driven API. A Commerce example will show how the Core Components hydrate it and the Launch extension interfaces with AA and AT.
 solution: Experience Manager Sites, Analytics, Target
 product: experience manager
 sub-product: sites
