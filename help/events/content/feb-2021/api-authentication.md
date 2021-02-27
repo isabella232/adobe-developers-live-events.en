@@ -4,7 +4,7 @@ description: How new mechanisms in the Adobe Experience Manager Dev Console allo
 solution: Experience Manager
 product: experience manager
 feature: APIs
-topic: Headless
+topic: Development, Headless
 role: Developer
 level: Experienced
 version: cloud-service

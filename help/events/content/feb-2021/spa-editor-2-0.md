@@ -5,7 +5,7 @@ solution: Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: SPA Editor
-topic: Development, SPA
+topic: Development, Headless
 role: Developer
 level: Intermediate
 version: cloud-service

@@ -4,7 +4,7 @@ description: A panel with Ian Boston, Tomek Rekawek, and Carlos Sanchez, on how 
 solution: Experience Manager
 product: experience manager
 feature: Migration
-topic: Development
+topic: Development, Migration
 role: Developer
 level: Intermediate, Experienced
 version: cloud-service
