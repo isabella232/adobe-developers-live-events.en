@@ -1,6 +1,8 @@
 ---
 title: Adobe Experience Manager as a Cloud Service
 description: A look behind the scenes sharing insights on strategy and innovation around Adobe Experience Manager in the Cloud while describing the major changes leading to where we are today.
+solution: Experience Manager
+product:  experience manager
 feature: Developer Tools
 topic: Development
 role: Developer, Architect

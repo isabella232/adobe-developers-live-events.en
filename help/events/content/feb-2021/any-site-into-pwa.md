@@ -1,10 +1,13 @@
 ---
 title: PWA - Turn any Site into a Progressive Web App
 description: Make your site installable on mobile devices and available offline with just a click, no matter whether it is a web app or a traditional site.
-feature: Migration
-topic: Development, Mobile
+solution: Experience Manager Sites
+product: experience manager
+sub-product: sites
+topic: Development
+feature: Core Components
 role: Developer
-level: Intermediate, Experienced
+level: Intermediate
 version: cloud-service
 kt: 7176
 thumbnail: 331742.jpg

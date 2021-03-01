@@ -1,6 +1,9 @@
 ---
 title: Asset Compute Service Extensibility
 description: Learn how to use Project Firefly to build custom Asset Compute worker for asset processing during ingestion into Adobe Experience Manager.
+solution: Experience Manager Assets
+product:  experience manager
+sub-product: assets
 feature: Asset Compute Microservices
 topic: Development
 role: Developer

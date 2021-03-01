@@ -1,6 +1,9 @@
 ---
 title: Rapid Frontend Development - Your Future Workflow
 description: Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS & JS.
+solution: Experience Manager Sites
+product: experience manager
+sub-product: sites
 feature: Editable Templates
 topic: Development
 role: Developer

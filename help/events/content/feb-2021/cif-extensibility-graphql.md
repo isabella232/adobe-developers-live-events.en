@@ -1,10 +1,13 @@
 ---
 title: Commerce Integration Framework Extensibility via GraphQL
 description: Learn how to extend Commerce core components using GraphQL
+solution: Experience Manager Sites
+product:  experience manager
+sub-product: sites
 feature: Commerce Integration Framework
-topic: Development
+topic: Development, Integrations
 role: Developer
-level: Experienced
+level: Intermediate
 version: cloud-service
 kt: 7187
 thumbnail: 331850.jpg
