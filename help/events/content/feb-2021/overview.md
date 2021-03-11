@@ -1,7 +1,7 @@
 ---
 title: Adobe Developers Live | Content
 seo-title: Adobe Developers Live | Content
-description: A collection of videos and tutorials for Adobe Experience Manager Sites 
+description: A collection of videos and tutorials for Adobe Experience Manager Sites delivered as part of Adobe Developers Live Content event.
 seo-description: A collection of videos and tutorials for Adobe Experience Manager Sites
 sub-product: sites, content-services
 ---

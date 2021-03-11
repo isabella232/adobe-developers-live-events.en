@@ -1,6 +1,6 @@
 ---
 title: Content Delivery on Experience Manager Cloud Service
-description: Adobe Experience Manager as a Cloud Service has a powerful preconfigured content delivery architecture. Demonstrate how to make the best of optimized content delivery configurations.
+description: Adobe Experience Manager as a Cloud Service has a powerful preconfigured content delivery architecture. Demonstrate how to make the best of optimized content delivery configurations. This session was delivered as part of Adobe Developers Live Content event.
 solution: Experience Manager
 product:  experience manager
 feature: Developer Tools

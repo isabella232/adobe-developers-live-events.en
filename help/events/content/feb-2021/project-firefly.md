@@ -1,6 +1,6 @@
 ---
 title: Project Firefly Deep Dive
-description: OK, so want to hear more Project Firefly developer stuff? Join us and see Firefly in action - code, security, headfull and headless apps, CI/CD and more.
+description: OK, so want to hear more Project Firefly developer stuff? Join us and see Firefly in action - code, security, headfull and headless apps, CI/CD and more. This session was delivered as part of Adobe Developers Live Content event.
 feature: Developer Tools
 topic: Development
 role: Developer

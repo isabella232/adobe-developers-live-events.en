@@ -6,4 +6,4 @@ hidefromtoc: yes
 
 # Overview {#overview}
 
-Recordings from the Adobe Developer Live-streamed event.
+Recordings from the Adobe Developer Live event.

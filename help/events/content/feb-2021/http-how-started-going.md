@@ -1,6 +1,6 @@
 ---
 title: HTTP? How it started, how it’s going
-description: An interview with Roy Fielding, co-author of the HTTP protocol and inventor of REST, on the evolution of HTTP from early days to current work on QUIC & HTTP/3.
+description: An interview with Roy Fielding, co-author of the HTTP protocol and inventor of REST, on the evolution of HTTP from early days to current work on QUIC & HTTP/3. This session was delivered as part of Adobe Developers Live Content event.
 feature: Development Tools
 topic: Development
 role: Developer

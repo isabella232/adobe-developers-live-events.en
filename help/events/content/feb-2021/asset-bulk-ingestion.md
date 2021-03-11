@@ -1,6 +1,6 @@
 ---
 title: Asset Bulk Ingestion
-description: This session will introduce the new feature of assets bulk ingestion in cloud service and its scalability & performance.
+description: This session will introduce the new feature of assets bulk ingestion in cloud service and its scalability & performance. This session was delivered as part of Adobe Developers Live Content event.
 solution: Experience Manager Assets
 product: experience manager
 sub-product: assets

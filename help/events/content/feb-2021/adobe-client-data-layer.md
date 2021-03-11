@@ -1,6 +1,6 @@
 ---
 title: Adobe Client Data Layer - Track Your Visitor Data
-description: Understand ACDL’s event-driven API. A Commerce example will show how the Core Components hydrate it and the Launch extension interfaces with AA and AT.
+description: Understand ACDL’s event-driven API. A Commerce example will show how the Core Components hydrate it and the Launch extension interfaces with AA and AT. This session was delivered as part of Adobe Developers Live Content event.
 solution: Experience Manager Sites, Analytics, Target
 product: experience manager
 sub-product: sites

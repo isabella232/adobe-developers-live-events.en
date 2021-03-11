@@ -1,7 +1,7 @@
 ---
 user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
-user-guide-description: Collection of recordings from the Adobe Developer Live-streamed events
+user-guide-description: Collection of recordings from the Adobe Developer Live Content event
 ---
 
 # Adobe Developers Live Events {#events}

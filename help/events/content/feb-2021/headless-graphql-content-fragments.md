@@ -1,6 +1,6 @@
 ---
 title: Headless - GraphQL with Content Fragments
-description: Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for Adobe Experience Manager Cloud Service.
+description: Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for Adobe Experience Manager Cloud Service. This session was delivered as part of Adobe Developers Live Content event.
 solution: Experience Manager
 product: experience manager
 feature: Content Fragments, APIs, GraphQL API

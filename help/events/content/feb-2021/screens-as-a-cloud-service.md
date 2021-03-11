@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Screens as a Cloud Service
-description: Join Jonathan Roeder, Director of Developer Experience for Experience Cloud, to hear about the latest developer updates across Adobe Experience Cloud.
+description: Join Jonathan Roeder, Director of Developer Experience for Experience Cloud, to hear about the latest developer updates across Adobe Experience Cloud. This session was delivered as part of Adobe Developers Live Content event.
 solution: Experience Manager Screens
 product: experience manager
 sub-product: screens
