@@ -19,6 +19,6 @@ Understand ACDL’s event-driven API. A Commerce example will show how the Core 
 
 Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
 
->[!VIDEO](https://video.tv.adobe.com/v/333307/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332307/?quality=12&learn=on&hidetitle=true)
 
 Click **[here](/help/events/assets/local-build-analyzers-aemcs.pdf)** for the session slides.

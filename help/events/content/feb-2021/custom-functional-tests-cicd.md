@@ -19,6 +19,6 @@ Learn how to deploy your code in production with confidence thanks to custom fun
 
 Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
 
->[!VIDEO](https://video.tv.adobe.com/v/333309/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 
 Click **[here](/help/events/assets/custom-functional-tests-cicd.pdf)** for the session slides.
