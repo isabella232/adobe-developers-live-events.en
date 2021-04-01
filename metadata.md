@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution: Experience Cloud
 product: experience cloud
 description: Collection of recordings from the Adobe Developer Live-streamed events.
