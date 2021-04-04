@@ -8,8 +8,8 @@ level: Intermediate, Experienced
 version: cloud-service
 kt: 7175
 thumbnail: 331741.jpg
+exl-id: 3858c8af-2874-4bda-922e-1c0fbf6bf59f
 ---
-
 # Project Firefly Deep Dive 
 
 OK, so want to hear more Project Firefly developer stuff? Join us and see Firefly in action: code, security, headfull and headless apps, CI/CD and more.

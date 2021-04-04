@@ -11,8 +11,8 @@ level: Intermediate
 version: cloud-service
 kt: 7176
 thumbnail: 331742.jpg
+exl-id: a7910b55-b918-4489-89df-f44334f2c6ab
 ---
-
 # PWA - Turn any Site into a Progressive Web App 
 
 Make your site installable on mobile devices and available offline with just a click, no matter whether it is a web app or a traditional site.

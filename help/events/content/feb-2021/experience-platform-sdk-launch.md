@@ -11,8 +11,8 @@ level: Intermediate
 version: cloud-service
 kt: 7179
 thumbnail: 331761.jpg
+exl-id: fb429dac-50cc-4c8c-97af-711667ee6bce
 ---
-
 # Experience Platform SDKs and Launch Server Side 
 
 Unlock the full potential of AEP Launch Server Side with the AEP Web & Mobile SDK's to optimize your enterprise data collection.

@@ -10,8 +10,8 @@ level: Experienced
 version: cloud-service
 kt: 7404
 thumbnail: 332304.jpg
+exl-id: bff9c973-bad9-4083-832c-bf3fff678e72
 ---
-
 # Environment variables with Adobe Experience Manager as a Cloud Service
 
 Learn how to manage environment variables with Adobe Experience Manager as a Cloud Service and use them in the context of a build process or OSGI configuration variables.

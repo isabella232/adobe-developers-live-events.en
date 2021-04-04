@@ -11,8 +11,8 @@ level: Beginner
 version: cloud-service
 kt: 7164
 thumbnail: 331767.jpg
+exl-id: 9c2b59e8-b3e9-4119-9301-713389d15f53
 ---
-
 # Adobe Experience Manager Screens as a Cloud Service
 
 Re-imagining Adobe Experience Manager Screens as a Cloud Service: a journey from being tightly coupled to a CMS to becoming a fully managed and scalable cloud service.

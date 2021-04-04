@@ -11,8 +11,8 @@ level: Experienced
 version: cloud-service
 kt: 7186
 thumbnail: 331849.jpg
+exl-id: f2dac894-a37b-4d90-b5df-665a4c1231e5
 ---
-
 # Asset Compute Service Extensibility
 
 Learn how to use Project Firefly to build custom Asset Compute worker for asset processing during ingestion into Adobe Experience Manager.
@@ -20,5 +20,3 @@ Learn how to use Project Firefly to build custom Asset Compute worker for asset 
 Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)
-
-

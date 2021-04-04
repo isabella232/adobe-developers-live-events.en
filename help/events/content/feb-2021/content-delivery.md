@@ -10,8 +10,8 @@ level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 7270
 thumbnail: 332022.jpg
+exl-id: 5f04254a-9b57-4865-9dda-effdcb414197
 ---
-
 # Content Delivery on Experience Manager Cloud Service - Setup your project to deliver fast experiences
 
 Adobe Experience Manager as a Cloud Service has a powerful preconfigured content delivery architecture. Demonstrate how to make the best of optimized content delivery configurations.

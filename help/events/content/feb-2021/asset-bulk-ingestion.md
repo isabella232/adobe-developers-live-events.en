@@ -11,8 +11,8 @@ level: Experienced
 version: cloud-service
 kt: 7168
 thumbnail: 331769.jpg
+exl-id: c773ddf6-a1cb-46a5-aa37-82c495d37db4
 ---
-
 # Asset Bulk Ingestion 
 
 This session will introduce the new feature of assets bulk ingestion in cloud service and its scalability and performance.

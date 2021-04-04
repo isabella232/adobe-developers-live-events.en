@@ -11,8 +11,8 @@ level: Experienced
 version: cloud-service
 kt: 7409
 thumbnail: 332309.jpg
+exl-id: 0f04df39-80b0-432f-a70f-99251e0d8598
 ---
-
 # Custom Functional Tests for safer CI/CD pipelines
 
 Learn how to deploy your code in production with confidence thanks to custom functional tests. Quality shouldn’t be hard, even on a busy Friday afternoon.

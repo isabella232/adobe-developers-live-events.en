@@ -10,8 +10,8 @@ level: Experienced
 version: cloud-service
 kt: 7402
 thumbnail: 332306.jpg
+exl-id: 591a3719-6480-4941-978a-2d7bb6baf434
 ---
-
 # Developing with Adobe Experience Manager Forms in the Cloud
 
 This session helps developers to get started with Forms on Adobe Experience Manager as a Cloud Service - from the local setup of Adobe Experience Manager Forms and covering customization.

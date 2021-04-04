@@ -11,8 +11,8 @@ level: Experienced
 version: cloud-service
 kt: 7162
 thumbnail: 331733.jpg
+exl-id: 4e6fd93c-6306-4daf-b0c9-23a79e4ee3ce
 ---
-
 # Adobe Client Data Layer - Track Your Visitor Data 
 
 Understand ACDL’s event-driven API. A Commerce example will show how the Core Components hydrate it and the Launch extension interfaces with AA and AT.

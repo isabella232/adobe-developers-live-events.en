@@ -10,8 +10,8 @@ level: Experienced
 version: cloud-service
 kt: 7167
 thumbnail: 331768.jpg
+exl-id: 91ff00dd-dd93-415e-906f-5d3671a0ac7f
 ---
-
 # API authentication with Adobe Experience Manager as a Cloud Service
 
 How new mechanisms in the Adobe Experience Manager Dev Console allow authentication to instances of Adobe Experience Manager in the Cloud, both as a developer and from 3rd party applications.
