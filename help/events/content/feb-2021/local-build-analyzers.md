@@ -4,7 +4,7 @@ description: Focus on new analyzers added to the AEM archetype, allowing to repr
 solution: Experience Manager Sites
 product: experience manager
 sub-product: sites
-feature: Cloud Manager
+feature: Core Components
 topic: Development
 role: Developer
 level: Experienced

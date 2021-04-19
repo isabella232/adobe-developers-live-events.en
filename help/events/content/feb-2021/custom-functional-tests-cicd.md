@@ -4,7 +4,7 @@ description: Learn how to deploy your code in production with confidence thanks 
 solution: Experience Manager Sites
 product: experience manager
 sub-product: sites
-feature: Cloud Manager
+feature: CI-CD Pipeline
 topic: Development
 role: Developer
 level: Experienced
