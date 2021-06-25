@@ -1,8 +1,6 @@
 ---
 title: Adobe Developers Live | Content
-seo-title: Adobe Developers Live | Content
 description: A collection of videos and tutorials for Adobe Experience Manager Sites delivered as part of Adobe Developers Live Content event.
-seo-description: A collection of videos and tutorials for Adobe Experience Manager Sites
 sub-product: sites, content-services
 exl-id: e0725e18-5275-44fd-8557-77c43cefe17e
 ---
@@ -16,7 +14,7 @@ On February 8-9, 2021, Adobe Developers Live: Content brought together developer
 
 This two-day conference featured important Adobe Experience Manager developer updates, such as Headless and GraphQL, Adobe Experience Manager as a Cloud Service, technical sessions and community networking opportunities.
 
-Connect with fellow devs and join the session conversations in **[Experience League Communities](http://adobe.ly/36Yd3v6).**
+Connect with fellow devs and join the session conversations in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
 
 ## Highlights
 
