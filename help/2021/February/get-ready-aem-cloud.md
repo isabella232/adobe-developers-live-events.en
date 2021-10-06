@@ -20,4 +20,4 @@ Continue the conversation in **[Experience League Communities](http://adobe.ly/3
 
 >[!VIDEO](https://video.tv.adobe.com/v/332308/?quality=12&learn=on&hidetitle=true)
 
-Click **[here](/help/events/assets/get-ready-aem-cloud.pdf)** for the session slides.
+Click **[here](/help/assets/get-ready-aem-cloud.pdf)** for the session slides.

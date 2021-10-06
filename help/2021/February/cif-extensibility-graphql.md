@@ -21,4 +21,4 @@ Continue the conversation in **[Experience League Communities](http://adobe.ly/3
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 
-Click **[here](/help/events/assets/cif-extensibility-graphql.pdf)** for the session slides.
+Click **[here](/help/assets/cif-extensibility-graphql.pdf)** for the session slides.

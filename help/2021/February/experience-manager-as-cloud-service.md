@@ -20,4 +20,4 @@ Continue the conversation in **[Experience League Communities](http://adobe.ly/3
 
 >[!VIDEO](https://video.tv.adobe.com/v/331278/?quality=12&learn=on&hidetitle=true)
 
-Click **[here](/help/events/assets/experience-manager-as-cloud-service.pdf)** for the session slides.
+Click **[here](/help/assets/experience-manager-as-cloud-service.pdf)** for the session slides.

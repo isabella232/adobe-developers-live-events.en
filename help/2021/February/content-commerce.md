@@ -21,4 +21,4 @@ Continue the conversation in **[Experience League Communities](http://adobe.ly/3
 
 >[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
 
-Click **[here](/help/events/assets/content-commerce.pdf)** for the session slides.
+Click **[here](/help/assets/content-commerce.pdf)** for the session slides.
