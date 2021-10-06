@@ -9,7 +9,7 @@ feature-set: Experience Manager, Experience Manager Sites, Experience Manager As
 
 + [Overview](/help/overview.md)
 + 2021 {#2021}
-  + [Overview](/help/content/overview.md)
+  + [Overview](/help/2021/overview.md)
   + February - Content {#feb2021}
     + [Overview](/help/2021/February/overview.md)
     + [Adobe Client Data Layer](/help/2021/February/adobe-client-data-layer.md)
