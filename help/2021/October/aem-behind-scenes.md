@@ -9,6 +9,7 @@ role: Developer, Architect
 level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 0000
+type: Event
 ---
 
 # Behind the scenes of Adobe Experience Manager with SRE guild members

@@ -10,9 +10,11 @@ role: Developer
 level: Experienced
 version: cloud-service
 kt: 7406
+type: Event
 thumbnail: 332307.jpg
 exl-id: 9c99db10-4e01-49ed-98b2-bf69ff8cb82a
 ---
+
 # Local Build analyzers with Adobe Experience Manager as a Cloud Service 
 
 Understand ACDL’s event-driven API. A Commerce example will show how the Core Components hydrate it and the Launch extension interfaces with AA and AT.

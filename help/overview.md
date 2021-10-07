@@ -6,7 +6,7 @@ exl-id: a0160aa3-5635-4bd9-a96a-ca039d7eaf01
 ---
 # Adobe Developers Live {#overview}
 
-<img alt="GraphQL with Content Fragments" src="/help/assets/adl.png" />
+<img alt="Adobe Developers Live" src="/help/assets/adl.png" />
 
 Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences. This two-day conference will feature important developer updates, technical sessions and community networking opportunities.
 
@@ -24,11 +24,11 @@ Register for future events **[here](https://developerevents.adobe.com/)**.
 <table>
 <tr>
   <td>
-    <a href="/help/2021/February/headless-graphql-content-fragments.md">
+    <a href="/help/2021/february/headless-graphql-content-fragments.md">
       <img alt="GraphQL with Content Fragments" src="/help/assets/331280.jpg" />
     </a>
     <div>
-      <a href="/help/2021/February/headless-graphql-content-fragments.md">
+      <a href="/help/2021/february/headless-graphql-content-fragments.md">
     <strong>GraphQL with Content Fragments</strong>
     </a>
     </div>
@@ -37,11 +37,11 @@ Register for future events **[here](https://developerevents.adobe.com/)**.
     <p>
   </td>
   <td>
-    <a href="/help/2021/February/spa-editor-2-0.md">
+    <a href="/help/2021/february/spa-editor-2-0.md">
     <img alt="SPA Editor 2.0" src="/help/assets/331743.jpg" />
     </a>
     <div>
-    <a href="/help/2021/February/spa-editor-2-0.md">
+    <a href="/help/2021/february/spa-editor-2-0.md">
     <strong>SPA Editor 2.0</strong>
     </a>
     </div>
@@ -50,11 +50,11 @@ Register for future events **[here](https://developerevents.adobe.com/)**.
     </p>
   </td>
   <td>
-    <a href="/help/2021/February/rapid-frontend-devlopment.md">
+    <a href="/help/2021/february/rapid-frontend-devlopment.md">
       <img alt="Rapid Frontend Development" src="/help/assets/331737.jpg" />
     </a>
      <div>
-      <a href="/help/2021/February/rapid-frontend-devlopment.md">
+      <a href="/help/2021/february/rapid-frontend-devlopment.md">
         <strong>Rapid Frontend Development</strong>
       </a>
     </div>

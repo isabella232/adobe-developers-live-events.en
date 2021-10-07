@@ -7,9 +7,11 @@ role: Developer, Architect
 level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 7169
+type: Event
 thumbnail: 331770.jpg
 exl-id: 8cd38504-90f1-4a1b-9ac8-f371f4ba9004
 ---
+
 # Developer Experience at Experience Cloud
 
 Join Jonathan Roeder, Director of Developer Experience for Experience Cloud, to hear about the latest developer updates across Adobe Experience Cloud.

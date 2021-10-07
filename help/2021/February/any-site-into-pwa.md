@@ -10,6 +10,7 @@ role: Developer
 level: Intermediate
 version: cloud-service
 kt: 7176
+type: Event
 thumbnail: 331742.jpg
 exl-id: a7910b55-b918-4489-89df-f44334f2c6ab
 ---

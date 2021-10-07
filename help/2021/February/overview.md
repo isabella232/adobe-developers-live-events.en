@@ -6,13 +6,13 @@ exl-id: e0725e18-5275-44fd-8557-77c43cefe17e
 ---
 # Adobe Developers Live | Content {#overview}
 
-<img alt="GraphQL with Content Fragments" src="/help/assets/adl.png" />
+<img alt="Adobe Developers Live" src="/help/assets/adl.png" />
 
 >[!TIP]
 >
 >**All sessions are listed in the navigation on the left**.
 
-On February 8-9, 2021, Adobe Developers Live: Content brought together developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences.
+On february 8-9, 2021, Adobe Developers Live: Content brought together developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences.
 
 This two-day conference featured important Adobe Experience Manager developer updates, such as Headless and GraphQL, Adobe Experience Manager as a Cloud Service, technical sessions and community networking opportunities.
 
@@ -23,11 +23,11 @@ Connect with fellow devs and join the session conversations in **[Experience Lea
 <table>
 <tr>
   <td>
-    <a href="/help/2021/February/headless-graphql-content-fragments.md">
+    <a href="/help/2021/february/headless-graphql-content-fragments.md">
       <img alt="GraphQL with Content Fragments" src="/help/assets/331280.jpg" />
     </a>
     <div>
-      <a href="/help/2021/February/headless-graphql-content-fragments.md">
+      <a href="/help/2021/february/headless-graphql-content-fragments.md">
     <strong>GraphQL with Content Fragments</strong>
     </a>
     </div>
@@ -36,11 +36,11 @@ Connect with fellow devs and join the session conversations in **[Experience Lea
     <p>
   </td>
   <td>
-    <a href="/help/2021/February/spa-editor-2-0.md">
+    <a href="/help/2021/february/spa-editor-2-0.md">
     <img alt="SPA Editor 2.0" src="/help/assets/331743.jpg" />
     </a>
     <div>
-    <a href="/help/2021/February/spa-editor-2-0.md">
+    <a href="/help/2021/february/spa-editor-2-0.md">
     <strong>SPA Editor 2.0</strong>
     </a>
     </div>
@@ -49,11 +49,11 @@ Connect with fellow devs and join the session conversations in **[Experience Lea
     </p>
   </td>
   <td>
-    <a href="/help/2021/February/rapid-frontend-devlopment.md">
+    <a href="/help/2021/february/rapid-frontend-devlopment.md">
       <img alt="Rapid Frontend Development" src="/help/assets/331737.jpg" />
     </a>
      <div>
-      <a href="/help/2021/February/rapid-frontend-devlopment.md">
+      <a href="/help/2021/february/rapid-frontend-devlopment.md">
         <strong>Rapid Frontend Development</strong>
       </a>
     </div>

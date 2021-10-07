@@ -9,9 +9,11 @@ role: Developer
 level: Intermediate, Experienced
 version: cloud-service
 kt: 7173
+type: Event
 thumbnail: 331739.jpg
 exl-id: 718fc6c7-3fd4-4bb7-b31f-e0864dece1f1
 ---
+
 # Moving Adobe Experience Manager to the Cloud - Challenges, Stories, Solutions 
 
 A panel with Ian Boston, Tomek Rekawek, and Carlos Sanchez, on how we successfully moved Adobe Experience Manager to the Cloud.

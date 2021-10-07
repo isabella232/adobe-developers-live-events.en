@@ -9,9 +9,11 @@ role: Developer, Architect
 level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 7163
+type: Event
 thumbnail: 331278.jpg
 exl-id: 8397c0f3-3c28-4133-893e-64469c21f80a
 ---
+
 # Adobe Experience Manager as a Cloud Service
 
 A look behind the scenes sharing insights on strategy and innovation around Adobe Experience Manager in the Cloud while describing the major changes leading to where we are today.

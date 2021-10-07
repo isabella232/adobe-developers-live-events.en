@@ -7,9 +7,11 @@ role: Developer
 level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 7172
+type: Event
 thumbnail: 331738.jpg
 exl-id: 67bcf477-4e30-4184-a81c-60bbaebca820
 ---
+
 # HTTP? How it started, how it’s going
 
 An interview with Roy Fielding, co-author of the HTTP protocol and inventor of REST, on the evolution of HTTP from early days to current work on QUIC & HTTP/3.

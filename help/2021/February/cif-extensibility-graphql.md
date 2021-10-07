@@ -10,9 +10,11 @@ role: Developer
 level: Intermediate
 version: cloud-service
 kt: 7187
+type: Event
 thumbnail: 331850.jpg
 exl-id: 0100df69-c5b5-4608-ab2d-7ddab70dba6d
 ---
+
 # Commerce Integration Framework Extensibility via GraphQL 
 
 Learn how to extend Commerce core components using GraphQL.

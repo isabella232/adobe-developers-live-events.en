@@ -9,9 +9,11 @@ role: Developer
 level: Experienced
 version: cloud-service
 kt: 7403
+type: Event
 thumbnail: 332305.jpg
 exl-id: abf4e0e2-0fd4-41b1-9b3c-0716caa34371
 ---
+
 # Digital Enrollment Experiences with Experience Manager Forms in the Cloud
 
 This session focuses on the journey of Forms from on-premise to cloud. It will also cover the enablement of digital enrollment use cases through demos.

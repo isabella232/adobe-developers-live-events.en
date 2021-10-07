@@ -10,9 +10,11 @@ role: Developer
 level: Intermediate
 version: cloud-service
 kt: 7178
+type: Event
 thumbnail: 331743.jpg
 exl-id: fc6ed408-df4b-48f7-93f2-d93ccfdfa948
 ---
+
 # SPA Editor 2.0 - add in-context editable content spots to any app 
 
 Load your existing React or Angular SPA in the Page Editor and, with minimal intervention, enable authors to insert content that they edit in-context.

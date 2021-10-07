@@ -9,9 +9,11 @@ role: Developer, Architect
 level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 7165
+type: Event
 thumbnail: 331279.jpg
 exl-id: 3045973c-3897-47c9-b7ba-e48fecc855ed
 ---
+
 # Adobe Experience Manager Updates
 
 Join Gabriel Walt, Product Manager for Experience Manager, to get an overview of the big themes that drive Adobe Experience Manager’s roadmap and how the sessions relate.

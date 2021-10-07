@@ -10,9 +10,11 @@ role: Developer
 level: Intermediate
 version: cloud-service
 kt: 7170
+type: Event
 thumbnail: 331735.jpg
 exl-id: a883aa56-d70c-48df-abd1-4097a53a6790
 ---
+
 # Fast Time to Value with Adobe Experience Manager Sites 
 
 Learn how the Digital Foundation Blueprint framework allows you to quickly implement a design with OOTB functionality and minimal customization.

@@ -9,6 +9,7 @@ role: Developer
 level: Experienced
 version: cloud-service
 kt: 7167
+type: Event
 thumbnail: 331768.jpg
 exl-id: 91ff00dd-dd93-415e-906f-5d3671a0ac7f
 ---

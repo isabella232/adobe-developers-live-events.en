@@ -10,9 +10,11 @@ role: Developer
 level: Intermediate
 version: cloud-service
 kt: 7177
+type: Event
 thumbnail: 331737.jpg
 exl-id: ce0ffe27-b3e0-4f2a-8ad8-1d6f35c756ba
 ---
+
 # Rapid Frontend Development - Your Future Workflow 
 
 Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS & JS.

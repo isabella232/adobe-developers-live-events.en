@@ -9,6 +9,7 @@ role: Developer, Architect
 level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 0000
+type: Event
 ---
 
 # Integrate AEM Cloud Service with Adobe IO Events
