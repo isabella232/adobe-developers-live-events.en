@@ -8,6 +8,7 @@ level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 9123
 type: Event
+exl-id: 8dd73c35-27fc-4cec-b353-a0a59c7d3a8e
 ---
 # Monitoring App Builder applications with Log Forwarding
 

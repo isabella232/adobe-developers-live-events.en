@@ -10,6 +10,7 @@ level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 9122
 type: Event
+exl-id: 863b4e10-a571-4564-ba82-aef678cea611
 ---
 # Build an app that consumes Adobe Experience Manager Events
 
@@ -18,5 +19,3 @@ Learn WHY is it a good idea to build event-driven applications and HOW we can bu
 Continue the conversation in **[Experience League Communities](https://adobe.ly/3ipjs8p)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337566/?quality=12&learn=on&hidetitle=true)
-
-
