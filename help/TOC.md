@@ -9,7 +9,7 @@ feature-set: Experience Manager, Experience Manager Sites, Experience Manager As
 
 + [Overview](/help/overview.md)
 + 2021 {#2021}
-  + february - Content {#feb2021}
+  + February - Content {#feb2021}
     + [Overview](/help/2021/february/overview.md)
     + [Adobe Client Data Layer](/help/2021/february/adobe-client-data-layer.md)
     + [Adobe Experience Platform SDKs](/help/2021/february/experience-platform-sdk-launch.md)
@@ -40,7 +40,7 @@ feature-set: Experience Manager, Experience Manager Sites, Experience Manager As
     + [Rapid Frontend Development](/help/2021/february/rapid-frontend-devlopment.md)
     + [SPA Editor 2.0](/help/2021/february/spa-editor-2-0.md)
     + [Turn any Site into a Progressive Web App](/help/2021/february/any-site-into-pwa.md)
-  + october {#oct2021}
+  + October {#oct2021}
     + [Overview](/help/2021/october/overview.md)
     + [Opening Keynote](/help/2021/october/keynote.md)
     + [Cloud Native Extensibility for Experience Manager](/help/2021/october/aem-cloud-native.md)
