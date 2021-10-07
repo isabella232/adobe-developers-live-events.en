@@ -2,7 +2,7 @@
 title: Integrate AEM Cloud Service with Adobe IO Events
 description: There are many ways to integrate Adobe Experience Manager Cloud Service with Adobe I/O Custom Events. Learn about the different options available and how they could be the best fit for your specific use-case.
 solution: Experience Manager
-product:  experience manager
+product: experience manager
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -10,8 +10,8 @@ level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 0000
 type: Event
+exl-id: 3be858f4-aa7c-4c1f-9321-e8a0ef8a374f
 ---
-
 # Integrate AEM Cloud Service with Adobe IO Events
 
 There are many ways to integrate Adobe Experience Manager Cloud Service with Adobe I/O Custom Events. Learn about the different options available and how they could be the best fit for your specific use-case.
