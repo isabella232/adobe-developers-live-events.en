@@ -43,7 +43,10 @@ feature-set: Experience Manager, Experience Manager Sites, Experience Manager As
   + October {#oct2021}
     + [Overview](/help/2021/october/overview.md)
     + [Opening Keynote](/help/2021/october/keynote.md)
+    + [Consume Experience Manager Events](/help/2021/october/consume-aem-events.md)
     + [Cloud Native Extensibility for Experience Manager](/help/2021/october/aem-cloud-native.md)
     + [Experience Manager Behind the Scenes](/help/2021/october/aem-behind-scenes.md)
+    + [Extend AEM with App Builder](/help/2021/october/extend-aem-app-builder.md)
     + [Integrate Experience Manager CS with Adobe IO Events](/help/2021/october/integrate-aem-io-events.md)
+    + [Monitor App Builder apps with log forwarding](/help/2021/october/log-forwarding.md)
     + [Past, Present, and Future of Experience Manager](/help/2021/october/past-present-future-aem.md)
