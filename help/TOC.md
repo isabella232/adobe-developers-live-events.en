@@ -43,7 +43,7 @@ feature-set: Experience Manager, Experience Manager Sites, Experience Manager As
   + October {#oct2021}
     + [Overview](/help/2021/october/overview.md)
     + [Opening Keynote](/help/2021/october/keynote.md)
-    + [Adobe Client Data Layer](/help/2021/february/adobe-client-data-layer.md)
+    + [Adobe Client Data Layer](/help/2021/october/adobe-client-data-layer.md)
     + [Build Creative Cloud Plug-ins](/help/2021/october/cc-extensibility.md)
     + [Consume Experience Manager Events](/help/2021/october/consume-aem-events.md)
     + [Content Upkeep](/help/2021/october/content-upkeep.md)
