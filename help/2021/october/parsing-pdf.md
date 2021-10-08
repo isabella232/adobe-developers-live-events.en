@@ -1,0 +1,20 @@
+---
+title: Parsing PDF - As easy as working with JSON data with PDF Extract API
+description: Learn how the PDF Extract service in Adobe PDF Services API can make parsing PDF as easy as parsing JSON. In this session, you'll learn what PDF Extract API does, why it's different from anything you've seen before, and how to use it to create unique PDF experiences without knowing anything about the PDF specification or PDF "internals". With PDF Extract API, it's just JSON!
+solution: Document Services
+product: document cloud
+feature: Developer Tools
+topic: Development
+role: Developer, Architect
+level: Experienced
+version: cloud-service
+kt: 9149
+type: Event
+---
+
+# Parsing PDF: As easy as working with JSON data with PDF Extract API
+
+Learn how the PDF Extract service in Adobe PDF Services API can make parsing PDF as easy as parsing JSON. In this session, you'll learn what PDF Extract API does, why it's different from anything you've seen before, and how to use it to create unique PDF experiences without knowing anything about the PDF specification or PDF "internals". With PDF Extract API, it's just JSON!
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/337600/?quality=12&learn=on&hidetitle=true)
