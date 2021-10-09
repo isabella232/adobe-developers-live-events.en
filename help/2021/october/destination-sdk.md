@@ -10,8 +10,8 @@ level: Experienced
 version: cloud-service
 kt: 9146
 type: Event
+exl-id: 200b1db6-442d-4bad-ad86-2b39084fa133
 ---
-
 # Introducing Adobe Experience Platform Destination SDK
 
 In this session we will introduce you to Destination SDK – a new feature of Adobe Experience Platform which allows partners and customers to create destinations in Adobe Experience Platform and Real-time Customer Data Platform. You'll learn how to set up a new destination integration and how it benefits your organization and our mutual customers.

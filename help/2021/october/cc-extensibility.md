@@ -9,8 +9,8 @@ level: Experienced
 version: cloud-service
 kt: 9138
 type: Event
+exl-id: b17739ee-9194-4bb1-b534-7fb9c95f2c79
 ---
-
 # Building Plugins for Adobe Photoshop and XD using the Unified Extensibility Platform
 
 Accelerate your graphic and design workflows by building plugins in Photoshop and XD using UXP. Get inspired by learning how teams leverage plugin creation to improve their design processes and increate their creative velocity.

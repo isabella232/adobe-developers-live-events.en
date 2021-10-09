@@ -8,7 +8,7 @@ level: Experienced
 version: cloud-service
 kt: 9151
 type: Event
-
+exl-id: 0e947982-19f3-4f92-a7d7-333b55fd8f17
 ---
 # Relevance in search creates a relevant ecommerce experience
 

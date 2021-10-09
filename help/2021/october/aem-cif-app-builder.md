@@ -9,7 +9,7 @@ level: Experienced
 version: cloud-service
 kt: 9143
 type: Event
-
+exl-id: b94dd7f8-ae1d-4271-83f8-252a2ba6ab30
 ---
 # Delivering commerce experiences at scale
 

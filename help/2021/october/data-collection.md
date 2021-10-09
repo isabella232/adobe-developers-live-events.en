@@ -8,7 +8,7 @@ level: Experienced
 version: cloud-service
 kt: 9140
 type: Event
-
+exl-id: 12702ba9-e5f5-46ac-9f47-f9ebde24464f
 ---
 # Data Collection for digital experiences - Client Performance and the power of server-side integrations
 

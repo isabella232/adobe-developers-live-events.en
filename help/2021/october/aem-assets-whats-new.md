@@ -8,8 +8,8 @@ level: Beginner
 version: cloud-service
 kt: 9152
 type: Event
+exl-id: 9238ef2a-710e-4060-9fa9-5743d264e1f8
 ---
-
 # What's new in Adobe Experience Manager Assets as a Cloud Service
 
 We've added a lot of features to Adobe Experience Manager Assets as a Cloud Service in 2021 to solve key developer and business use-cases. As we close out the year, join this session for a crash course on what's new and maybe a demo or two.

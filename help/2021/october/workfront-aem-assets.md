@@ -9,8 +9,8 @@ level: Beginner
 version: cloud-service
 kt: 9135
 type: Event
+exl-id: cf0b7390-6452-4254-96d1-851126966b58
 ---
-
 # Adobe Workfront and Adobe Experience Manager Assets
 
 Learn how Adobe Workfront and Adobe Experience Manager Assets work together.

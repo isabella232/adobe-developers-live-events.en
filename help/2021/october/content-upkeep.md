@@ -8,8 +8,8 @@ level: Beginner
 version: cloud-service
 kt: 9135
 type: Event
+exl-id: 23dfb3a3-caae-49c7-8dc4-734bb448efb6
 ---
-
 # Content Upkeep
 
 Demonstrate the features available in the Adobe Experience Manager Modernization tool suite. Learn how dev teams can use it to consolidate, convert, or upgrade content to reduce the burden on Authors as the component library evolves.

@@ -8,7 +8,7 @@ level: Experienced
 version: cloud-service
 kt: 9147
 type: Event
-
+exl-id: 6fa0657b-4f93-4e6e-8795-8bb83786718a
 ---
 # Keeping Adobe Commerce Live Search results fresh in real-time
 

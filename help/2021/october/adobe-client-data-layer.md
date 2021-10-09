@@ -8,7 +8,7 @@ level: Experienced
 version: cloud-service
 kt: 9134
 type: Event
-
+exl-id: cf0498b7-37fa-4979-acaf-825c148518dd
 ---
 # Adobe Client Data Layer - Event-Driven Data Handling
 
