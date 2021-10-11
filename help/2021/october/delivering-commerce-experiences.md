@@ -16,3 +16,9 @@ exl-id: 1c2afbdf-b798-48eb-a39b-0e5e3b84d201
 Learn how to set up and configure Adobe Experience Manager and Adobe Commerce using the Commerce Integration Framework to deliver high-performing experiences under load.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337585/?quality=12&learn=on&hidetitle=true)
+
+# Additional Resources
+
+- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform Overview](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Adobe Experience Platform Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
