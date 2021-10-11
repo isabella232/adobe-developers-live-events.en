@@ -17,7 +17,7 @@ Accelerate your graphic and design workflows by building plugins in Photoshop an
 
 >[!VIDEO](https://video.tv.adobe.com/v/337593/?quality=12&learn=on&hidetitle=true)
 
-# Additional Resources
+## Additional Resources
 
 - [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform Overview](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)

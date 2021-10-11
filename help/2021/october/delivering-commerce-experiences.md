@@ -17,7 +17,7 @@ Learn how to set up and configure Adobe Experience Manager and Adobe Commerce us
 
 >[!VIDEO](https://video.tv.adobe.com/v/337585/?quality=12&learn=on&hidetitle=true)
 
-# Additional Resources
+## Additional Resources
 
 - [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform Overview](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)

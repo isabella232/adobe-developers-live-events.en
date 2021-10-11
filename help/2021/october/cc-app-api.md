@@ -17,7 +17,7 @@ Join us for an overview of our Creative Cloud app engine API offering, which inc
 
 >[!VIDEO](https://video.tv.adobe.com/v/337594/?quality=12&learn=on&hidetitle=true)
 
-# Additional Resources
+## Additional Resources
 
 - [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform Overview](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
