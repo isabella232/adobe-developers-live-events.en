@@ -4,7 +4,7 @@ description: Learn how to set up and configure Adobe Experience Manager and Adob
 solution: Adobe Commerce, Experience Manager
 feature: Developer Tools
 topic: Integrations
-role: Developer, Architect
+role: Architect
 level: Experienced
 version: cloud-service
 kt: 9141
@@ -15,7 +15,7 @@ exl-id: 1c2afbdf-b798-48eb-a39b-0e5e3b84d201
 
 Learn how to set up and configure Adobe Experience Manager and Adobe Commerce using the Commerce Integration Framework to deliver high-performing experiences under load.
 
->[!VIDEO](https://video.tv.adobe.com/v/337585/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337582/?quality=12&learn=on&hidetitle=true)
 
 ## Additional Resources
 
