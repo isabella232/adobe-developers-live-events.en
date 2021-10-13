@@ -2,7 +2,6 @@
 title: Wrangle PDFs on the web like a pro
 description: A look at how to use the free Adobe PDF Embed API makes it easier to use PDFs in your web site. I'll demonstrate how to use it, the various ways you can control the user interface of the PDF, and how to listen for events so you can track usage and other analytics for PDFs.
 solution: Document Services
-product: document cloud
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
