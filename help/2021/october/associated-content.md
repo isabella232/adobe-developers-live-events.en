@@ -1,20 +1,19 @@
 ---
-title: Keeping Adobe Commerce Live Search results fresh in real-time
-description: One of the most crucial pieces of any e-commerce site is the ability to search for products. Small errors in search accuracy can have a large impact on lost sales. In this presentation we’ll talk about how LiveSearch maintains fast, accurate search results in near real time with constantly changing product information, availability, and pricing.
+title: Enrich Commerce Experiences with Associated Content
+description: The CIF Add-on recently introduced Product Experience Management which extends authoring capabilities of Assets, Content Fragments and Experience Fragments to associate Adobe Experience Manager content with product data. Harnessing the power of associated content allows you to enrich your fully dynamic product catalog built with CIF Core Components to show data coming from both Adobe Commerce and Adobe Experience Manager. In this session you learn to enrich your storefront project with different levels of marketing-driven experiences. We also introduce you to advanced use cases where we show how custom components can leverage associated content.
 solution: Adobe Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced
 version: cloud-service
-kt: 9147
+kt: 9181
 type: Event
-exl-id: 6fa0657b-4f93-4e6e-8795-8bb83786718a
 ---
-# Keeping Adobe Commerce Live Search results fresh in real-time
+# Enrich Commerce Experiences with Associated Content
 
-One of the most crucial pieces of any e-commerce site is the ability to search for products. Small errors in search accuracy can have a large impact on lost sales. In this presentation we’ll talk about how LiveSearch maintains fast, accurate search results in near real time with constantly changing product information, availability, and pricing.
+The CIF Add-on recently introduced Product Experience Management which extends authoring capabilities of Assets, Content Fragments and Experience Fragments to associate Adobe Experience Manager content with product data. Harnessing the power of associated content allows you to enrich your fully dynamic product catalog built with CIF Core Components to show data coming from both Adobe Commerce and Adobe Experience Manager. In this session you learn to enrich your storefront project with different levels of marketing-driven experiences. We also introduce you to advanced use cases where we show how custom components can leverage associated content.
 
->[!VIDEO](https://video.tv.adobe.com/v/337580/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337772/?quality=12&learn=on&hidetitle=true)
 
 ## Additional Resources
 
