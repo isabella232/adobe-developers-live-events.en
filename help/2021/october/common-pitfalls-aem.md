@@ -1,6 +1,6 @@
 ---
 title: Tales from the front lines - how to avoid common pitfalls in Experience Manager CS
-description: Learn from the most common mistakes that others have made so that you can avoid them yourself! In this session, we will look at some of the common issues that our on-call and support engineers have seen and discuss best practices for ensuring that you can avoid these in your own Adobe Experience Manager as a Cloud Service implementation. 
+description: Learn from the most common mistakes that others have made so that you can avoid them yourself! In this session, we will look at some of the common issues that our on-call and support engineers have seen and discuss best practices for ensuring that you can avoid these in your own Adobe Experience Manager as a Cloud Service implementation.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 9179
 type: Event
+exl-id: 9f7f8393-ee3f-4416-bbf1-82d3633a8477
 ---
 # Tales from the front lines - how to avoid common pitfalls in Experience Manager CS
 
