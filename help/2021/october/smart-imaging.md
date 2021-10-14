@@ -7,6 +7,7 @@ level: Beginner
 version: cloud-service
 kt: 9176
 type: Event
+exl-id: c557cee1-ba24-41f6-aacc-195e38a966a7
 ---
 # Transform, Adapt, and Optimize Images through URLs
 

@@ -1,6 +1,6 @@
 ---
 title: Best practices for component scripts development and deployment in Experience Manager as a Cloud Service
-description: This session describes the newest best practices that Adobe Experience Manager developers can follow in order to have more predictable application deployments. Introduced as an Apache Sling feature in 2019 and used in AEMaaCS since 2020, precompiled bundled scripts provide developers two major improvements over the classic way of deploying Adobe Experience Manager components - 1. the scripts can be versioned and have explicit dependency chains, like any Java API 2. the script compilation can now be done during the application's build process, allowing to discover potential errors fast (e.g. missing dependencies, wrong API usages, etc.) We will focus on how developers can set up their projects to provide their scripts as precompiled bundles and use local Adobe Experience Manager Sling Feature analysers to verify that the API requirements are satisfied, helping them to catch any potential error early. 
+description: This session describes the newest best practices that Adobe Experience Manager developers can follow in order to have more predictable application deployments. Introduced as an Apache Sling feature in 2019 and used in AEMaaCS since 2020, precompiled bundled scripts provide developers two major improvements over the classic way of deploying Adobe Experience Manager components - 1. the scripts can be versioned and have explicit dependency chains, like any Java API 2. the script compilation can now be done during the application's build process, allowing to discover potential errors fast (e.g. missing dependencies, wrong API usages, etc.) We will focus on how developers can set up their projects to provide their scripts as precompiled bundles and use local Adobe Experience Manager Sling Feature analysers to verify that the API requirements are satisfied, helping them to catch any potential error early.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 9177
 type: Event
+exl-id: de1f0e04-12f8-4df3-b4f7-11510c1a14c2
 ---
 # Best practices for component scripts development and deployment in Experience Manager as a Cloud Service
 
