@@ -1,6 +1,6 @@
 ---
 title: Introduction to Adobe PDF Services API
-description: A look at how to use the free Adobe PDF Embed API makes it easier to use PDFs in your web site. I'll demonstrate how to use it, the various ways you can control the user interface of the PDF, and how to listen for events so you can track usage and other analytics for PDFs.
+description: Adobe's PDF Services API lets developers create, combine, export, and extract data from PDFs through powerful and flexible cloud-based APIs. In this session, you will learn how you can get started using Adobe PDF Services API to integrate document experiences into your apps and customer experiences.
 solution: Document Services
 feature: Developer Tools
 topic: Development
@@ -10,9 +10,9 @@ version: cloud-service
 kt: 9206
 type: Event
 ---
-# Wrangle PDFs on the web like a pro
+# Introduction to Adobe PDF Services API
 
-A look at how to use the free Adobe PDF Embed API makes it easier to use PDFs in your web site. I'll demonstrate how to use it, the various ways you can control the user interface of the PDF, and how to listen for events so you can track usage and other analytics for PDFs.
+Adobe's PDF Services API lets developers create, combine, export, and extract data from PDFs through powerful and flexible cloud-based APIs. In this session, you will learn how you can get started using Adobe PDF Services API to integrate document experiences into your apps and customer experiences.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337601/?quality=12&learn=on&hidetitle=true)
