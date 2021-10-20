@@ -1,7 +1,8 @@
 ---
 title: Data Collection for digital experiences - Client Performance and the power of server-side integrations
 description: Digital Experiences on Web and Mobile are rapidly changing and so should your tooling. Come see what Adobe is doing in Edge Technology to improve performance and allow developers and patterns to deploy code to one of the world's largest data collection infrastructures.
-feature: Developer Tools
+solution: Data Collection, Experience Platform
+feature: Web SDK, Debugger, Tags, Event Forwarding
 topic: Development
 role: Developer, Architect
 level: Experienced
