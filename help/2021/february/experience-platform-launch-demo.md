@@ -4,7 +4,7 @@ description: Quickly and easily deploy and manage your client-side marketing & a
 solution: Experience Platform Launch
 product: experience platform
 sub-product: launch
-feature: Extensions
+feature: Tags
 topic: Development
 role: Developer
 level: Experienced

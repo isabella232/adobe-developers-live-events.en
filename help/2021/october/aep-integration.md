@@ -1,8 +1,8 @@
 ---
-title: Overview of Adobe Experience Platform integration 
+title: Overview of Adobe Experience Platform integrations 
 description: This session will give you an overall view of different ways that Adobe Experience Platform can integrate within your ecosystem and things to consider when planning the integration work. 
 solution: Experience Platform
-feature: Developer Tools
+feature: Integrations
 topic: Development
 role: Developer, Architect
 level: Experienced
@@ -10,7 +10,7 @@ version: cloud-service
 kt: 9222
 type: Event
 ---
-# Overview of Adobe Experience Platform integration 
+# Overview of Adobe Experience Platform integrations 
 
 This session will give you an overall view of different ways that Adobe Experience Platform can integrate within your ecosystem and things to consider when planning the integration work.
 
