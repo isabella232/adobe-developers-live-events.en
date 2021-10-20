@@ -2,7 +2,7 @@
 title: Custom Adobe Experience Manager Assets Compute Worker with App Builder and Photoshop APIs
 description: Adobe Experience Manager as Cloud Service’s Asset Compute microservices support the development and deployment of custom workers that generate custom asset renditions. Beside leveraging the out-of-the-box content automation for asset production at scale, developers can also create their own asset compute workers using Photoshop APIs for more custom use cases. In this session, we will walk through all the steps of developing an asset compute worker with App Builder SDKs and Photoshop APIs to automate custom asset renditions.
 solution: Experience Manager
-feature: Developer Tools
+feature: Asset Compute Microservices
 topic: Development
 role: Developer, Architect
 level: Experienced
@@ -20,6 +20,6 @@ Continue the conversation in **[Experience League Communities](https://adobe.ly/
 
 ## Additional Resources
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform Overview](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-- [Adobe Experience Platform Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager Cloud Service Overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

@@ -2,7 +2,7 @@
 title: Quick Site Creation
 description: Adobe Experience Manager is introducing innovative new ways to create a site. Instead of starting with the Adobe Experience Manager Project Archetype, now we can all start with an appropriate Site Template for your project. This session we showcase the new end-to-end process for creating sites based on a Site Template. You will see how (1) front-end developers work with real-time preview of theming changes that deploy via front-end Cloud Manager pipeline, and (2) teams that define templates can work side-by-side with practitioners prior to go-live.
 solution: Experience Manager
-feature: Developer Tools
+feature: Core Components, Code Deployment
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
@@ -20,6 +20,6 @@ Continue the conversation in **[Experience League Communities](https://adobe.ly/
 
 ## Additional Resources
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform Overview](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-- [Adobe Experience Platform Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager Cloud Service Overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
