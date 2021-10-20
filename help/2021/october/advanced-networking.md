@@ -3,10 +3,9 @@ title: Advanced Networking with Adobe Experience Manager as a Cloud Service
 description: Cloud migration can be challenging when other services live on-premise or different locations.
 We have built solutions to provide customers with their own dedicated infrastructure, such as dedicated ip addresses or VPN connectivity, that allows a gradual migration to Adobe Experience Manager as a Cloud Service, accelerating the journey to the Cloud.
 solution: Experience Manager
-feature: Developer Tools
 topic: Development
 role: Developer, Architect
-level: Beginner, Intermediate, Experienced
+level: Beginner
 version: cloud-service
 kt: 9192
 type: Event
