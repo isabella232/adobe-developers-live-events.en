@@ -70,9 +70,8 @@ Connect with fellow devs and join the session conversations in Experience League
 
 ## Additional Resources
 
-* [App Builder Overview](http://adobe.ly/aem-appbuilder)
-* [App Builder Developer Guide](http://adobe.ly/appbuilder)
-* [App Builder Trial Program Sign Up](http://adobe.ly/appbuilder-trial)
+#### AEM
+
 * [Experience League - Explore AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
 * [AEM Sites Authoring Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
 * [AEM Sites Developing Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
@@ -82,3 +81,15 @@ Connect with fellow devs and join the session conversations in Experience League
 * [AEM Assets Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
 * [AEM Forms Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
 * [AEM Foundation Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+
+#### Adobe Experience Platform
+
+* [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+* [Adobe Experience Platform Overview](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+* [Adobe Experience Platform Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+
+#### App Builder
+
+* [App Builder Overview](http://adobe.ly/aem-appbuilder)
+* [App Builder Developer Guide](http://adobe.ly/appbuilder)
+* [App Builder Trial Program Sign Up](http://adobe.ly/appbuilder-trial)
