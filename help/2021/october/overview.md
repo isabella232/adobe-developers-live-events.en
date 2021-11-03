@@ -8,11 +8,7 @@ exl-id: 0df21231-6606-4eb6-bd7d-d975f0fe5e29
 
 <img alt="Adobe Developers Live" src="/help/assets/adl.png" />
 
->[!TIP]
->
->**All sessions are listed in the navigation on the left**.
-
-On october 4-5, 2021, Adobe Developers Live brought together Adobe developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences. This two-day conference featured important developer updates, technical sessions and community networking opportunities.
+On October 4-5, 2021, Adobe Developers Live brought together Adobe developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences. This two-day conference featured important developer updates, technical sessions and community networking opportunities.
 
 Adobe product teams across Adobe Experience Cloud, Document Cloud and Creative Cloud showcased the latest tech advances and developer tools powering design, content creation workflows, document services and customer experience management across industries.
 
@@ -20,52 +16,55 @@ Connect with fellow devs and join the session conversations in Experience League
 * [App Builder (Project Firefly) Complete Session list](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
 * [AEM Complete Session list](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
 
-
+>[!TIP]
+>
+>**All sessions are listed in the navigation on the left**.
 
 ## Highlights
 
 <table>
-<tr>
-  <td>
-    <a href="/help/2021/october/keynote.md">
-      <img alt="Opening Keynote" src="/help/assets/337490.jpeg" />
-    </a>
-    <div>
-      <a href="/help/2021/october/keynote.md">
-    <strong>Opening Keynote</strong>
-    </a>
-    </div>
-    <p>
-    <em>Hear about the latest tech advances and developer tool updates available across Adobe Creative Cloud, Document Cloud and Experience Cloud.</em>
-    <p>
-  </td>
-  <td>
-    <a href="/help/2021/october/aem-cloud-native.md">
-    <img alt="Cloud-native extensibility for Experience Cloud" src="/help/assets/337491.jpeg" />
-    </a>
-    <div>
-    <a href="/help/2021/october/aem-cloud-native.md">
-    <strong>Cloud-native extensibility for Experience Cloud</strong>
-    </a>
-    </div>
-    <p>
-    <em>Learn more about Adobe’s cloud-native extensibility strategy for Experience Cloud and what’s in it for developers.</em>
-    </p>
-  </td>
-  <td>
-    <a href="/help/2021/october/integrate-aem-io-events.md">
-      <img alt="Integrate AEM Cloud Service with Adobe IO Events" src="/help/assets/337529.jpeg" />
-    </a>
-     <div>
-      <a href="/help/2021/october/integrate-aem-io-events.md">
-        <strong>Integrate AEM Cloud Service with Adobe IO Events</strong>
+  <tr>
+   <td>
+      <a href="./2021/october/headless.md">
+      <img alt="Headless Sites" src="/help/assets/mathias.png"/>
       </a>
-    </div>
-    <p>
-    <em>There are many ways to integrate Adobe Experience Manager Cloud Service with Adobe I/O Custom Events. Learn about the different options available and how they could be the best fit for your specific use-case.</em>
-    <p>
-  </td>
-</tr>
+      <div>
+         <a href="./2021/october/headless.md"><strong>Headless Sites</strong></a>         
+         <br/><em>with Principle Product Manager, Adobe Experience Manager Sites</em>
+      </div>
+      <p>
+        <br/>
+         With GraphQL for Content Fragments available for AEM 6.5 and Adobe Experience Manager as a Cloud Service, let’s explore how Adobe Experience Manager can be used as a headless CMS.
+      </p>
+     </td>   
+     <td>
+      <a href="./2021/october/aep-integration.md">
+      <img alt="Overview of Adobe Experience Platform integration" src="/help/assets/eric.png"/>
+      </a>
+      <div>
+         <a href="./2021/october/aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
+         <br/><em>with Eric Knee, Principal Enterprise Solution Architect</em>
+      </div>
+      <p>
+        <br/>
+         This session will give you an overall view of different ways that Adobe Experience Platform can integrate within your ecosystem and things to consider when planning the integration work.
+      </p>
+   </td>
+   </td>
+     <td>
+      <a href="./2021/october/pdf-services-api.md">
+      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="/help/assets/ben.png"/>
+      </a>
+      <div>
+         <a href="./2021/october/pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>
+         <br/><em>with Ben Vanderberg, Principal Developer Evangelist</em>
+      </div>
+      <p>
+        <br/>
+         Adobe Document Generation API is a powerful document creation service driven by Microsoft Word templates merged with your data. When combined with Adobe Sign API, developers have an easy way to generate dynamic documents ready to be processed through the Sign workflow.
+      </p>
+   </td> 
+  </tr>
 </table>
 
 ## Additional Resources
