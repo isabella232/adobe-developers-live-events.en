@@ -8,11 +8,7 @@ exl-id: e0725e18-5275-44fd-8557-77c43cefe17e
 
 <img alt="Adobe Developers Live" src="/help/assets/adl.png" />
 
->[!TIP]
->
->**All sessions are listed in the navigation on the left**.
-
-On february 8-9, 2021, Adobe Developers Live: Content brought together developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences.
+On February 8-9, 2021, Adobe Developers Live: Content brought together developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences.
 
 This two-day conference featured important Adobe Experience Manager developer updates, such as Headless and GraphQL, Adobe Experience Manager as a Cloud Service, technical sessions and community networking opportunities.
 
@@ -21,48 +17,53 @@ Connect with fellow devs and join the session conversations in **[Experience Lea
 ## Highlights
 
 <table>
-<tr>
-  <td>
-    <a href="/help/2021/february/headless-graphql-content-fragments.md">
-      <img alt="GraphQL with Content Fragments" src="/help/assets/331280.jpg" />
-    </a>
-    <div>
-      <a href="/help/2021/february/headless-graphql-content-fragments.md">
-    <strong>GraphQL with Content Fragments</strong>
-    </a>
-    </div>
-    <p>
-    <em>Learn about the new headless capabilities with the most recent Content Fragment enhancements. The session focus is on the GraphQL API for AEM Cloud Service.</em>
-    <p>
-  </td>
-  <td>
-    <a href="/help/2021/february/spa-editor-2-0.md">
-    <img alt="SPA Editor 2.0" src="/help/assets/331743.jpg" />
-    </a>
-    <div>
-    <a href="/help/2021/february/spa-editor-2-0.md">
-    <strong>SPA Editor 2.0</strong>
-    </a>
-    </div>
-    <p>
-    <em>Load your existing React or Angular SPA in the Page Editor and, with minimal intervention, enable authors to insert content that they edit in-context.</em>
-    </p>
-  </td>
-  <td>
-    <a href="/help/2021/february/rapid-frontend-devlopment.md">
-      <img alt="Rapid Frontend Development" src="/help/assets/331737.jpg" />
-    </a>
-     <div>
-      <a href="/help/2021/february/rapid-frontend-devlopment.md">
-        <strong>Rapid Frontend Development</strong>
+  <tr>
+   <td>
+      <a href="headless-graphql-content-fragments.md">
+      <img alt="Headless - GraphQL with Content Fragments" src="/help/assets/jabran.png"/>
       </a>
-    </div>
-    <p>
-    <em>Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS & JS.</em>
-    <p>
-  </td>
-</tr>
+      <div>
+         <a href="headless-graphql-content-fragments.md"><strong>Headless - GraphQL with Content Fragments</strong></a>         
+         <br/><em>with Jabran Asghar, Sr. Software Engineer</em>
+      </div>
+      <p>
+        <br/>
+         Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for AEM Cloud Service.
+      </p>
+     </td>   
+     <td>
+      <a href="rapid-frontend-devlopment.md">
+      <img alt="Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site." src="/help/assets/gabriel.png"/>
+      </a>
+      <div>
+         <a href="rapid-frontend-devlopment.md"><strong>Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site.</strong></a>
+         <br/><em>with Gabriel Walt, Sr. Product Manager</em>
+      </div>
+      <p>
+        <br/>
+         Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS&JS.
+      </p>
+   </td>
+   </td>
+     <td>
+      <a href="get-ready-aem-cloud.md">
+      <img alt="Get ready for the Cloud Service - Migration best practices" src="/help/assets/andreea.png"/>
+      </a>
+      <div>
+         <a href="get-ready-aem-cloud.md"><strong>Get ready for the Cloud Service - Migration best practices</strong></a>
+         <br/><em>with Andreea Moise, Sr. Software Engineer</em>
+      </div>
+      <p>
+        <br/>
+         Adapting your code base to make it cloud-friendly and bulletproof against future upgrades handled under the hood is key to maximize AEM Cloud Service benefits.
+      </p>
+   </td>
+  </tr>
 </table>
+
+>[!TIP]
+>
+>**All sessions are listed in the navigation on the left**.
 
 ## Additional Resources
 

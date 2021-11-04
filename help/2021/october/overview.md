@@ -16,10 +16,6 @@ Connect with fellow devs and join the session conversations in Experience League
 * [App Builder (Project Firefly) Complete Session list](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
 * [AEM Complete Session list](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
 
->[!TIP]
->
->**All sessions are listed in the navigation on the left**.
-
 ## Highlights
 
 <table>
@@ -30,7 +26,7 @@ Connect with fellow devs and join the session conversations in Experience League
       </a>
       <div>
          <a href="headless.md"><strong>Headless Sites</strong></a>         
-         <br/><em>with Principle Product Manager, Adobe Experience Manager Sites</em>
+         <br/><em>with Mathias Siegel, Principal Product Manager, AEM Sites</em>
       </div>
       <p>
         <br/>
@@ -66,6 +62,10 @@ Connect with fellow devs and join the session conversations in Experience League
    </td> 
   </tr>
 </table>
+
+>[!TIP]
+>
+>**All sessions are listed in the navigation on the left**.
 
 ## Additional Resources
 
