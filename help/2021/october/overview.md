@@ -25,11 +25,11 @@ Connect with fellow devs and join the session conversations in Experience League
 <table>
   <tr>
    <td>
-      <a href="./2021/october/headless.md">
+      <a href="headless.md">
       <img alt="Headless Sites" src="/help/assets/mathias.png"/>
       </a>
       <div>
-         <a href="./2021/october/headless.md"><strong>Headless Sites</strong></a>         
+         <a href="headless.md"><strong>Headless Sites</strong></a>         
          <br/><em>with Principle Product Manager, Adobe Experience Manager Sites</em>
       </div>
       <p>
@@ -38,11 +38,11 @@ Connect with fellow devs and join the session conversations in Experience League
       </p>
      </td>   
      <td>
-      <a href="./2021/october/aep-integration.md">
+      <a href="aep-integration.md">
       <img alt="Overview of Adobe Experience Platform integration" src="/help/assets/eric.png"/>
       </a>
       <div>
-         <a href="./2021/october/aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
+         <a href="aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
          <br/><em>with Eric Knee, Principal Enterprise Solution Architect</em>
       </div>
       <p>
@@ -52,11 +52,11 @@ Connect with fellow devs and join the session conversations in Experience League
    </td>
    </td>
      <td>
-      <a href="./2021/october/pdf-services-api.md">
+      <a href="pdf-services-api.md">
       <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="/help/assets/ben.png"/>
       </a>
       <div>
-         <a href="./2021/october/pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>
+         <a href="pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>
          <br/><em>with Ben Vanderberg, Principal Developer Evangelist</em>
       </div>
       <p>
