@@ -7,9 +7,8 @@ feature-set: Experience Manager, Experience Manager Sites, Experience Manager As
 
 # Adobe Developers Live Events {#events}
 
-
++ [Overview](overview.md)
 + 2021 {#2021}
-  + [Overview](/help/overview.md)
   + February - Content {#feb2021}
     + [Overview](/help/2021/february/overview.md)
     + [Adobe Client Data Layer](/help/2021/february/adobe-client-data-layer.md)
