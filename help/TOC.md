@@ -54,6 +54,7 @@ feature-set: Experience Manager, Experience Manager Sites, Experience Manager As
     + [Advanced Networking with Experience Manager CS](/help/2021/october/advanced-networking.md)
     + [Anomaly Detection Tool built on App Builder](/help/2021/october/data-anomaly-detection.md)
     + [App Builder Architecture and Technical Deep Dive](/help/2021/october/app-builder-architecture.md)
+    + [Automate the creation and manipulation of PDFs using PDF Services API](2021/october/automate-pdf-services-api.md)
     + [Best practices for component scripts development](/help/2021/october/component-script-development.md)
     + [Build Creative Cloud Plug-ins](/help/2021/october/cc-extensibility.md)
     + [Consume Experience Manager Events](/help/2021/october/consume-aem-events.md)
