@@ -8,6 +8,7 @@ level: Experienced
 version: cloud-service
 kt: 9212
 type: Event
+exl-id: ad0c372f-779e-4e08-9bea-d730df201c84
 ---
 # Adobe Analytics APIs you need to know in 2021
 

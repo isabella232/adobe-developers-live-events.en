@@ -9,6 +9,7 @@ level: Experienced
 version: cloud-service
 kt: 9210
 type: Event
+exl-id: 7b445bf2-7082-49df-a12d-ac251b3bcaa5
 ---
 # Generate documents and capture e-signatures in your apps using Document Generation and Sign APIs
 

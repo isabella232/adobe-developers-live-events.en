@@ -9,6 +9,7 @@ level: Experienced
 version: cloud-service
 kt: 9221
 type: Event
+exl-id: 9ba24c31-0bba-4b2a-944c-e3884886d129
 ---
 # Introduction to Creative Cloud Libraries and Asset Browser APIs
 

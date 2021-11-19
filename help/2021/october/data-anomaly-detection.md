@@ -8,6 +8,7 @@ level: Experienced
 version: cloud-service
 kt: 9213
 type: Event
+exl-id: 9338a581-b12f-4e26-8355-5bea44c37594
 ---
 # DataFacts - AEP’s first Data Anomaly Detection Tool built on App Builder
 

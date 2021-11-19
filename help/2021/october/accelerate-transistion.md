@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 9190
 type: Event
+exl-id: 025e5362-c3ab-4818-9a42-dc48dc09e4ce
 ---
 # Accelerating Transition to Adobe Experience Manager as a Cloud Service
 

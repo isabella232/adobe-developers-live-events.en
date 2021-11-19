@@ -9,6 +9,7 @@ level: Experienced
 version: cloud-service
 kt: 9209
 type: Event
+exl-id: 0fbf4b70-48dd-4b62-8ec2-47c9fba4ea35
 ---
 # Automate the creation and manipulation of PDFs using PDF Services API
 

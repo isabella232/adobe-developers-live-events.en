@@ -9,6 +9,7 @@ level: Experienced
 version: cloud-service
 kt: 9191
 type: Event
+exl-id: bc0cfc75-9d8a-4755-b27c-0dee1d653a14
 ---
 # Front-end code pipeline
 

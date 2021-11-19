@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 9183
 type: Event
+exl-id: 76f90eaa-fc68-4c17-a9ec-9c1f818bd21a
 ---
 # Quick Site Creation
 

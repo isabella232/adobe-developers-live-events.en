@@ -9,6 +9,7 @@ level: Experienced
 version: cloud-service
 kt: 9207
 type: Event
+exl-id: 5d679dd9-8cb3-432e-8d78-1c42111022f6
 ---
 # Generating documents and capturing e-signatures in your apps using Adobe Sign API
 

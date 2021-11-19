@@ -8,6 +8,7 @@ level: Experienced
 version: cloud-service
 kt: 9198
 type: Event
+exl-id: e8fdb696-49fd-4197-a337-7599c620e913
 ---
 # The evolution of Adobe Commerce to reduce your TCO
 

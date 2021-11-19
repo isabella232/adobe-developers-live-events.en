@@ -8,6 +8,7 @@ level: Experienced
 version: cloud-service
 kt: 9197
 type: Event
+exl-id: 91b0dc83-a1bb-4a6d-b0a0-09a3b8108663
 ---
 # Adobe Commerce and the Community Contribution Model
 

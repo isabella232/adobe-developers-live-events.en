@@ -8,6 +8,7 @@ level: Experienced
 version: cloud-service
 kt: 9200
 type: Event
+exl-id: 969c8154-3d1d-482a-8c0c-1921d4378d12
 ---
 # Collaborative PWA Storefront Design with XD
 

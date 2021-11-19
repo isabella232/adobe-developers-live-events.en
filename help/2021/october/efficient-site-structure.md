@@ -1,6 +1,6 @@
 ---
 title: Efficient Sites Structure - Improved Performance
-description: A detailed overview of some of the best practices for developers when dealing with language copies, live copies, and bulky move or copy operations. 
+description: A detailed overview of some of the best practices for developers when dealing with language copies, live copies, and bulky move or copy operations.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: cloud-service
 kt: 9182
 type: Event
+exl-id: 42437df6-ed76-40d0-a101-17fb7a33eabc
 ---
 # Efficient Sites Structure - Improved Performance
 

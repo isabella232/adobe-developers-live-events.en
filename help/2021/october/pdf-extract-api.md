@@ -9,6 +9,7 @@ level: Experienced
 version: cloud-service
 kt: 9211
 type: Event
+exl-id: ef19685b-9b0a-4245-aa62-c3df88ae3014
 ---
 # Parsing PDF - Extracting PDF content intelligently into JSON format with PDF Extract API
 

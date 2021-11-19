@@ -8,6 +8,7 @@ level: Experienced
 version: cloud-service
 kt: 9200
 type: Event
+exl-id: c57e2846-8c80-4e8b-9006-ade83b9b052e
 ---
 # Extending Adobe Commerce using Adobe I/O
 

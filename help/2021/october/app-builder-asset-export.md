@@ -9,6 +9,7 @@ level: Experienced
 version: cloud-service
 kt: 9218
 type: Event
+exl-id: 48185fda-3e2b-475e-b630-a5bf1b9478e5
 ---
 # Adobe I/O Powered Experience Manager Assets Export
 

@@ -8,6 +8,7 @@ level: Beginner
 version: cloud-service
 kt: 9192
 type: Event
+exl-id: 6d0a2633-65e7-460f-b22e-ae8868660eae
 ---
 # Advanced Networking with Adobe Experience Manager as a Cloud Service
 

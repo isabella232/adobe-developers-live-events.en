@@ -9,6 +9,7 @@ level: Experienced
 version: cloud-service
 kt: 9214
 type: Event
+exl-id: fe0789ac-bd2f-4679-8234-5ae90fc12a1b
 ---
 # App Builder Architecture and Technical Deep Dive
 

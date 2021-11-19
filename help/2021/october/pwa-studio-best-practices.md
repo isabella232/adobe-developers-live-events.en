@@ -8,6 +8,7 @@ level: Experienced
 version: cloud-service
 kt: 9199
 type: Event
+exl-id: 98d8f556-d15d-4f43-a1d5-a3797da0ed00
 ---
 # PWA Studio Best Practices for Beginners
 

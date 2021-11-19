@@ -1,6 +1,6 @@
 ---
 title: An introduction to the Adobe Developer Console
-description: The Adobe Developer Console is the gateway to Adobe APIs, Events, Runtime and App Builder. Join us for an overview of the services and tooling available as part of the Adobe Developer Ecosystem. 
+description: The Adobe Developer Console is the gateway to Adobe APIs, Events, Runtime and App Builder. Join us for an overview of the services and tooling available as part of the Adobe Developer Ecosystem.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,6 +9,7 @@ level: Beginner
 version: cloud-service
 kt: 9214
 type: Event
+exl-id: 48528bb6-af8e-4d24-a35b-9e93d5a2ccdd
 ---
 # An introduction to the Adobe Developer Console
 

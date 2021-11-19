@@ -9,6 +9,7 @@ level: Experienced
 version: cloud-service
 kt: 9206
 type: Event
+exl-id: 49fae969-9d50-4cee-a39e-abbe26d47bc1
 ---
 # Introduction to Adobe PDF Services API
 
