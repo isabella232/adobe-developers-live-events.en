@@ -1,7 +1,7 @@
 ---
 title: Accelerating Transition to Adobe Experience Manager as a Cloud Service
 description: Get to know more about how to leverage the Adobe Experience Manager as a Cloud Service code refactoring tools to accelerate your transition journey to Cloud Service by making your existing content (package structure, indexes, Adobe Experience Manager Asset processing workflows, dispatcher configurations) Cloud Service compatible via automation.
-landing-page-description: Leverage the AEM as a Cloud Service code refactoring tools to accelerate your transition journey to Cloud Service by making your existing content compatible via automation.
+landing-page-description: Use the AEM as a Cloud Service code-refactoring tools to accelerate your transition to Cloud Service.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
