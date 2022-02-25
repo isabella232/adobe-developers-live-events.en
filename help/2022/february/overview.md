@@ -5,7 +5,7 @@ sub-product: sites, content-services
 ---
 # Adobe Developers Live {#overview}
 
-<img alt="Adobe Developers Live" src="./help/assets/adl.png" />
+<img alt="Adobe Developers Live" src="./../../assets/adl.png" />
 
 Adobe Developers Live: Commerce 2022 brings together developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences. This one-day virtual conference will feature important Commerce and Open Source Developer updates, technical sessions, community networking opportunities and more.
 
