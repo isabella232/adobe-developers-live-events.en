@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 9791
 thumbnail: 340620.jpeg
+exl-id: b573f9e9-56d5-493f-bc59-1c5f1dadeae1
 ---
-
 # Opening Keynote
 
 The developer ecosystem has always been critical to the success of Magento, and that's no different for Adobe Commerce and Magento Open Source today. Kick off an exciting day of informational content and thoughtful discussions that include Adobe's vision for the platform, the evolution of Open Source, and upcoming improvements in developer experience, extensibility, user experience development and site maintenance best practices.

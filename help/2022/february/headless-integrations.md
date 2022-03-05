@@ -1,12 +1,12 @@
 ---
 title: Innovating with Headless Integrations
-description: Take a closer look how our partners have  innovated and created  experiences by unlocking and extending the potential of the Adobe commerce APIs. 
+description: Take a closer look how our partners have  innovated and created  experiences by unlocking and extending the potential of the Adobe commerce APIs.
 role: User
 level: Beginner
 kt: 9790
 thumbnail: 340623.jpeg
+exl-id: 4d4c64ba-e594-4c9b-a96a-e40e6a1aa91f
 ---
-
 # Innovating with Headless Integrations - A Closer Look
 
 Trends in technologies change every year. As technologies also mature, they create new opportunities for developers to create amazing experiences, tailored for their unique customers to a level was never thought possible. Join me as we will explore the real value of headless integrations as a technology trend by taking a closer look at how our partners have already innovated and created amazing experiences by unlocking and extending the potential of our commerce APIs.
