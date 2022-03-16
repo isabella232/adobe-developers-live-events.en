@@ -1,5 +1,5 @@
 ---
-title: Opening Keynote
+title: Keynote
 description: Hear about the latest tech advances and developer tool updates available across Adobe Creative Cloud, Document Cloud and Experience Cloud.
 feature: Developer Tools
 topic: Development

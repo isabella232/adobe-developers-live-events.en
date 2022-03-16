@@ -1,5 +1,5 @@
 ---
-title: App Builder Architecture and Technical Deep Dive
+title: App Builder Exchange
 description: Learn more about App Builder as we walk through the application architecture of App Builder apps that extend Adobe Experience Manager.
 solution: Experience Manager
 feature: Developer Tools
@@ -11,7 +11,7 @@ kt: 9214
 type: Event
 exl-id: 71aea95c-743d-4b4a-aeaf-477d328c1d3d
 ---
-# App Builder Architecture and Technical Deep Dive
+# App Builder Exchange
 
 Learn more about App Builder as we walk through the application architecture of App Builder apps that extend Adobe Experience Manager.
 

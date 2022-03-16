@@ -1,5 +1,5 @@
 ---
-title: Adobe Developers Live
+title: Adobe Developers Live October 2021
 description: A collection of videos and tutorials for Adobe Experience Manager Sites delivered as part of Adobe Developers Live  event.
 sub-product: sites, content-services
 exl-id: 0df21231-6606-4eb6-bd7d-d975f0fe5e29
