@@ -1,7 +1,7 @@
 ---
 title: Experience Platform SDKs and Launch Server Side
 description: Unlock the full potential of AEP Launch Server Side with the AEP Web & Mobile SDK's to optimize your enterprise data collection. This session was delivered as part of Adobe Developers Live Content event.
-solution: Experience Platform, Experience Platform Launch
+solution: Data Collection
 product: experience platform
 sub-product: launch
 feature: Developer Tools, APIs
