@@ -1,7 +1,7 @@
 ---
 title: Enrich Commerce Experiences with Associated Content
 description: The CIF Add-on recently introduced Product Experience Management which extends authoring capabilities of Assets, Content Fragments and Experience Fragments to associate Adobe Experience Manager content with product data. Harnessing the power of associated content allows you to enrich your fully dynamic product catalog built with CIF Core Components to show data coming from both Adobe Commerce and Adobe Experience Manager. In this session you learn to enrich your storefront project with different levels of marketing-driven experiences. We also introduce you to advanced use cases where we show how custom components can leverage associated content.
-solution: Adobe Commerce
+solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced

@@ -1,7 +1,7 @@
 ---
 title: The evolution of Adobe Commerce to reduce your TCO
 description: Keeping your Adobe Commerce platform updated is key to maintaining an ecommerce store that is secure, performant, and reliable. Just like if you were taking care of a physical store, an ecommerce store requires maintenance to make sure you are providing the best experience for your customers.  For Adobe, enabling our customers to run frictionless upgrades is a priority. In this session you will learn about the Adobe Commerce release strategy and best practices to reduce your total cost of ownership.
-solution: Adobe Commerce
+solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced

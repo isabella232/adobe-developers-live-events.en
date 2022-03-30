@@ -1,7 +1,7 @@
 ---
 title: Extending Adobe Commerce using Adobe I/O
 description: Learn how Adobe Commerce enables developers and merchants to enrich commerce experience with custom business logic, immersive content, and integrations with other points of interaction.
-solution: Adobe Commerce
+solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced

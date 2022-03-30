@@ -1,7 +1,7 @@
 ---
 title: Sizing the Adobe Commerce Cloud for a large number of API requests in headless implementation
 description: Adobe Commerce Cloud is used as an eCommerce platform for 7-Eleven Australia across multiple channels. In this presentation we would share the experience of using Adobe Commerce Cloud with a high number of resource-consuming API interactions based on the  example of the personalised offers using a combination of Adobe Campaign and Adobe Commerce. We’ll share experience on the estimation and sizing of the infrastructure based on the expected demand, testing approaches and interpretation of the monitoring data that is available.
-solution: Adobe Commerce
+solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced

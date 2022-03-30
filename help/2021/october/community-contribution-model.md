@@ -1,7 +1,7 @@
 ---
 title: Adobe Commerce and the Community Contribution Model
 description: In this session, you will learn about important changes to our community contribution model. These changes to the process will enable partners and customers to access critical fixes from the community much faster through a streamlined process and a standardized delivery channel.
-solution: Adobe Commerce
+solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced

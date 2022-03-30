@@ -1,7 +1,7 @@
 ---
 title: Collaborative PWA Storefront Design with XD
 description: Learn how the PWA Studio XD Kit can help facilitate better collaboration from design to engineering and get a sneak peek at the future of storefront theming.
-solution: Adobe Commerce
+solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced

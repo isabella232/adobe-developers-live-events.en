@@ -1,7 +1,7 @@
 ---
 title: Delivering commerce experiences at scale
 description: Learn how to set up and configure Adobe Experience Manager and Adobe Commerce using the Commerce Integration Framework to deliver high-performing experiences under load.
-solution: Adobe Commerce, Experience Manager
+solution: Commerce, Experience Manager
 feature: Developer Tools
 topic: Integrations
 role: Architect
