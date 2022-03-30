@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Platform Launch Demo
 description: Quickly and easily deploy and manage your client-side marketing & advertising tags with AEP Launch, learn how to customize, and write your own extensions. This session was delivered as part of Adobe Developers Live Content event.
-solution: Experience Platform Launch
+solution: Data Collection, Tags
 product: experience platform
 sub-product: launch
 feature: Tags
