@@ -1,7 +1,7 @@
 ---
 title: Launch Server Side is Great, but What if it Could...
 description: In April of 2021, Evolytics released the first third-party authored extension for the event forwarding capability in Adobe Experience Platform (formerly Launch Server Side). The process of developing event-forwarding extensions is very similar to those on the client-side tag properties, but there are some important differences to keep in mind. In this session, Evolytics engineers will take you through the process of designing, developing, testing, and releasing an extension for event forwarding.
-solution: Data Collection, Experience Platform
+solution: Data Collection
 feature: Event Forwarding
 topic: Development
 role: Developer, Architect
