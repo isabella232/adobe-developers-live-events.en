@@ -1,7 +1,7 @@
 ---
 title: Digital Enrollment Experiences with Experience Manager Forms in the Cloud
 description: This session focuses on the journey of Forms from on-premise to cloud. It will also cover the enablement of digital enrollment use cases through demos.
-solution: Experience Manager Forms
+solution: Experience Manager,Experience Manager Forms
 product: experience manager
 sub-product: forms
 topic: Development

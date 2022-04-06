@@ -1,7 +1,7 @@
 ---
 title: Adobe Client Data Layer - Event-Driven Data Handling
 description: Did you ever want to know the secrets and details behind the Adobe Client Data Layer? How it is designed, the architecture looks like and how you can leverage it to its fullest extend? Join this session and learn all about it. As a bonus, a commerce example will show how the Core Components hydrate the ACDL and later the Launch extension interacts with other applications, like Adobe Analytics or Adobe Target.
-solution: Data Collection,Experience Platform,Experience Manager
+solution: Data Collection,Experience Manager
 feature: Tags
 topic: Development
 role: Developer, Architect

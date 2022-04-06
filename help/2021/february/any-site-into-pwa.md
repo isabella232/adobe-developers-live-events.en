@@ -1,7 +1,7 @@
 ---
 title: PWA - Turn any Site into a Progressive Web App
 description: Make your site installable on mobile devices and available offline with just a click, no matter whether it is a web app or a traditional site. This session was delivered as part of Adobe Developers Live Content event.
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 topic: Development

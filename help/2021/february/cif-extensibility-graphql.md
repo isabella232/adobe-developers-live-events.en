@@ -1,7 +1,7 @@
 ---
 title: Commerce Integration Framework Extensibility via GraphQL
 description: Learn how to extend Commerce core components using GraphQL. This session was delivered as part of Adobe Developers Live Content event.
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product:  experience manager
 sub-product: sites
 feature: Commerce Integration Framework

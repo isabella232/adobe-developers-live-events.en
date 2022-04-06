@@ -1,7 +1,7 @@
 ---
 title: Adobe Workfront and Adobe Experience Manager Assets
 description: Learn how Adobe Workfront and Adobe Experience Manager Assets work together.
-solution: Workfront, Experience Manager Assets
+solution: Workfront, Experience Manager,Experience Manager Assets
 topic: Integrations
 role: User
 level: Beginner

@@ -1,7 +1,7 @@
 ---
 title: Adobe I/O Powered Experience Manager Assets Export
 description: This session covers an overview of Adobe I/O serverless platform from Events, Actions to App Builder, also from AEMaaCS perspective, see how Adobe I/O can help implement use cases like exporting assets from Adobe Experience Manager into external cloud storage (Azure) or 3rd party systems (Marketo) either in real-time (sync) or batch (async) mode.
-solution: Experience Manager Assets
+solution: Experience Manager,Experience Manager Assets
 feature: Developer Tools
 topic: Development, Integrations
 role: Developer, Architect

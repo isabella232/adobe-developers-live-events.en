@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Manager Forms Cloud Service - Secure Multi-Channel Digital Enrollment
 description: Learn how to build modern secure, modern digital enrollment experiences with Adobe Experience Manager Forms as a Cloud Service. This session will highlight best practices around securing data processed in workflows, externalizing submitted data to Azure storage, and collect insights using Adobe Analytics with Adaptive Forms on cloud service.
-solution: Experience Manager Forms
+solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
 version: cloud-service

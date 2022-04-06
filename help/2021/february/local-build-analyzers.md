@@ -1,7 +1,7 @@
 ---
 title: Local Build analyzers with Adobe Experience Manager as a Cloud Service
 description: Focus on new analyzers added to the AEM archetype, allowing to reproduce locally validations that will be done within the Cloud Manager deployment pipelines.
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Core Components

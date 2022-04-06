@@ -1,7 +1,7 @@
 ---
 title: Transform, Adapt, and Optimize Images through URLs
 description: Images can take over 60% of the total bandwidth in your digital experiences, and for media-rich, image heavy experiences, this can be as high as 85%. To drive best experiences for your users, it is important to optimize the images being served. Learn how Adobe Experience Manager Dynamic Media can power better user experience and improved conversion rates, through its industry leading Smart Imaging capability and host of other dynamic imaging feature set. This session will help technical folks understand best practices around using Dynamic Media URLs and modifiers, sort of one stop shop, without them having to achieve image optimization through trial and error.
-solution: Experience Manager Assets
+solution: Experience Manager,Experience Manager Assets
 feature: Smart Crop, Smart Services
 role: User
 level: Beginner

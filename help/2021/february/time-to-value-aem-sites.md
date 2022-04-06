@@ -1,7 +1,7 @@
 ---
 title: Fast Time to Value with Adobe Experience Manager Sites
 description: Learn how the Digital Foundation Blueprint framework allows you to quickly implement a design with OOTB functionality and minimal customization. This session was delivered as part of Adobe Developers Live Content event.
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product:  experience manager
 sub-product: sites
 feature: Developer Tools

@@ -1,7 +1,7 @@
 ---
 title: Screens Cloud Service
 description: Learn about the differences between delivering content for the digital signage channel versus delivering a website and how Screens as a Cloud Service offers a channel-specific delivery mechanism for addressing the unique requirements of digital signage.
-solution: Experience Manager Screens
+solution: Experience Manager,Experience Manager Screens
 feature: Developer Tools
 topic: Development
 role: Developer, Architect

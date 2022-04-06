@@ -1,7 +1,7 @@
 ---
 title: Custom Functional Tests for safer CI/CD pipelines
 description: Learn how to deploy your code in production with confidence thanks to custom functional tests. Quality shouldn’t be hard, even on a busy Friday afternoon.
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: CI-CD Pipeline

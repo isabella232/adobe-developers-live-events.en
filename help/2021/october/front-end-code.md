@@ -1,7 +1,7 @@
 ---
 title: Front-end code pipeline
 description: Learn how to use the new Front-end code pipeline recently introduced in Cloud Manager
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 feature: Developer Tools, Deploying
 topic: Development
 role: Developer, Architect
